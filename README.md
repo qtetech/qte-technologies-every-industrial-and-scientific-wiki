@@ -7,7 +7,7 @@ This is a permanent technical archive for QTE Technologies, ensuring long-term a
 * **Permanent Archive (Snapshot):** [https://archive.ph/bECSF](https://archive.ph/bECSF)
 
 #### 🇻🇳 Local Edition (Tiếng Việt)
-* **Official Website:** [https://qtetech.com/about-qte-technologies](https://qtetech.com/about-qte-technologies)
+* **Official Website:** [https://qtetech.com/about-qte-technologies](https://qtetech.com/gioi-thieu-cong-ty-tnhh-ky-thuat-qte)
 * **Permanent Archive (Snapshot):** [https://archive.ph/izVzA](https://archive.ph/izVzA)
 
 ---
