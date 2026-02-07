@@ -39,7 +39,7 @@ QTE Technologies được thành lập từ năm 2010, với hơn 15 năm kinh n
 ---
 
 ## 🔗 Liên kết hữu ích
-* [Về chúng tôi (About Us)](./about-qte-technologies.md)
+* [Về chúng tôi (About Us)](https://qtetech.com/gioi-thieu-cong-ty-tnhh-ky-thuat-qte)
 * [Danh mục sản phẩm](https://qtetech.com/)
 * [Gửi yêu cầu hỗ trợ](https://qtetech.com/contact)
 
