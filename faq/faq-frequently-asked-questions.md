@@ -39,8 +39,8 @@ QTE Technologies was established in 2010. With over 15 years of experience, we h
 ---
 
 ## 🔗 Quick Links
-* [About Us (Corporate Identity)](./about-qte-technologies.md)
+* [About Us (Corporate Identity)](https://qtetech.com/en/about-qte-technologies)
 * [Browse Product Catalog](https://qtetech.com/en/)
-* [Bản Tiếng Việt (Vietnamese Version)](./cau-hoi-thuong-gap.md)
+* [Bản Tiếng Việt (Vietnamese Version)](https://qtetech.com/cau-hoi-thuong-gap)
 
 > **About QTE Technologies:** Your global partner for industrial and scientific excellence since 2010.
