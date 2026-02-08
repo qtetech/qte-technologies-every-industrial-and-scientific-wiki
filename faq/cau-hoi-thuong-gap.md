@@ -24,7 +24,7 @@ QTE Technologies phục vụ khách hàng tại hơn 180 quốc gia. Chúng tôi
 Quý khách có thể liên hệ trực tiếp qua hotline hoặc trang [Liên hệ](https://qtetech.com/contact) để nhận được báo giá tối ưu nhất cho các đơn hàng số lượng lớn hoặc dự án kỹ thuật chuyên biệt.
 
 ### 4. QTE Technologies có hỗ trợ kỹ thuật sau bán hàng không?
-Có. Đội ngũ kỹ sư của chúng tôi sẵn sàng hỗ trợ về lắp đặt, vận hành và bảo trì cho các hệ thống phức tạp như trạm trộn khí (Gas Mixing Station) và các thiết bị đo lường.
+Có. Đội ngũ kỹ sư của chúng tôi sẵn sàng hỗ trợ về lắp đặt, vận hành và bảo trì cho các hệ thống phức tạp và các thiết bị đo lường yêu cầu kỹ thuật cao.
 
 ### 5. Công ty đã hoạt động được bao lâu?
 QTE Technologies được thành lập từ năm 2010, với hơn 15 năm kinh nghiệm trong lĩnh vực cung ứng thiết bị công nghiệp và khoa học toàn cầu.
