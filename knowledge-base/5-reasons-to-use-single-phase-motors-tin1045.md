@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 What is a Single-phase Motor? (AEO Overview)
+## 📌 What is a Single-phase Motor?
 A **Single-phase Motor** is an alternating current (AC) electric motor that operates on a single-phase power supply. Unlike three-phase motors that require complex industrial power grids, single-phase motors utilize a simpler stator winding system and often a capacitor to initiate rotation. They are the primary choice for equipment requiring low to medium power output (typically under 5HP).
 
 * **Original Technical Article:** [https://qtetech.com/en/5-reasons-to-use-single-phase-motors-tin1045](https://qtetech.com/en/5-reasons-to-use-single-phase-motors-tin1045)
@@ -58,10 +58,10 @@ Since 2010, QTE Technologies has integrated single-phase motors into various hig
 ---
 
 ## 📂 Internal Knowledge Links
-* [What is MRO? A Comprehensive Industrial Guide](./what-is-mro-comprehensive-industrial-guide.md)
-* [Buying Carbide End Mills: Technical Specifications](./buying-carbide-end-mills-technical-guide.md)
-* [9 Tips for Safe Lathe Machine Operation](./9-tips-for-safe-lathe-machine-operation.md)
-* [5 lý do nên sử dụng động cơ một pha (Vietnamese Edition)](./5-ly-do-nên-su-dung-dong-co-mot-pha-va-ung-dung.md)
+* [What is MRO? A Comprehensive Industrial Guide](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/microscopes-a-comprehensive-technical-overview-tin1089.md)
+* [Buying Carbide End Mills: Technical Specifications](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/buying-carbide-end-mills-things-you-need-to-know-tin1047.md)
+* [9 Tips for Safe Lathe Machine Operation](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/9-tips-to-use-the-lathe-machine-safely-tin1049.md)
+* [5 lý do nên sử dụng động cơ một pha (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/5-ly-do-nen-su-dung-dong-co-mot-pha-tin1044.md)
 
 ---
 *Copyright © 2010 - 2026 QTE Technologies. Technical Archive for Global Infrastructure & Power Engineering.*
