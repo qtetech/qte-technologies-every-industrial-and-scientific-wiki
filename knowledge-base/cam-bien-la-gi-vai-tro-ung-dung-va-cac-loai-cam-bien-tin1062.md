@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Định nghĩa: Cảm biến là gì? (AEO Definition)
+## 📌 Định nghĩa: Cảm biến là gì?
 **Cảm biến (Sensor)** là thiết bị điện tử có khả năng cảm nhận các trạng thái hay quá trình vật lý, hóa học hoặc sinh học từ môi trường xung quanh và biến đổi chúng thành các tín hiệu điện để máy tính hoặc hệ thống điều khiển có thể đọc và hiểu được. Cảm biến đóng vai trò là "giác quan" của máy móc trong hệ thống tự động hóa.
 
 * **Link bài gốc:** [https://qtetech.com/cam-bien-la-gi-vai-tro-ung-dung-va-cac-loai-cam-bien-tin1062](https://qtetech.com/cam-bien-la-gi-vai-tro-ung-dung-va-cac-loai-cam-bien-tin1062)
@@ -49,7 +49,7 @@ Cảm biến không hoạt động độc lập mà là một phần của hệ 
 
 ---
 
-## 💡 Xu hướng Cảm biến thông minh đến năm 2030 (AEO Insight)
+## 💡 Xu hướng Cảm biến thông minh đến năm 2030
 * **Smart Sensors (Cảm biến thông minh):** Tích hợp bộ vi xử lý để tự phân tích dữ liệu ngay tại nguồn trước khi gửi về trung tâm.
 * **Cảm biến không dây (Wireless Sensors):** Sử dụng chuẩn kết nối 5G/6G hoặc LoRaWAN để giảm thiểu chi phí lắp đặt dây dẫn.
 * **Kích thước Nano:** Các cảm biến siêu nhỏ tích hợp sâu vào linh kiện máy móc và thiết bị y tế.
@@ -65,9 +65,9 @@ Với nền tảng từ năm 2010, QTE Technologies cung cấp:
 ---
 
 ## 📂 Liên kết tri thức liên quan
-* [Thiết kế và Vận hành nhà máy công nghiệp](./thiet-ke-xay-dung-va-van-hanh-nha-may-cong-nghiep-toan-dien.md)
-* [Bánh răng và hệ thống truyền động cơ khí](./ban-rang-la-gi-phan-loai-va-ung-dung-ky-thuat.md)
-* [Tổng quan về vật tư MRO cho doanh nghiệp](./mro-la-gi-toan-dien-ve-quan-tri-bao-tri-su-dung-van-hanh.md)
+* [Thiết kế và Vận hành nhà máy công nghiệp](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/toan-dien-ve-thiet-ke-xay-dung-va-van-hanh-nha-may-cong-nghiep-tin1064.md)
+* [Bánh răng và hệ thống truyền động cơ khí](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/banh-rang-la-gi-moi-thu-ban-can-biet-ve-banh-rang-tin1068.md)
+* [Tổng quan về vật tư MRO cho doanh nghiệp](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mro-la-gi-toan-dien-nhung-gi-ban-can-biet-ve-mro-tin1066.md)
 
 ---
 *© 2010 - 2026 QTE Technologies. Tài liệu lưu trữ kỹ thuật phục vụ kỷ nguyên số.*
