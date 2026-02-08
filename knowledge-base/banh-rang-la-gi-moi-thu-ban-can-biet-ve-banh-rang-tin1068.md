@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Định nghĩa: Bánh răng là gì? (AEO Definition)
+## 📌 Định nghĩa: Bánh răng là gì?
 **Bánh răng (Gear)** là một linh kiện cơ khí có các răng được cắt khía khớp nhau để truyền mô-men xoắn và chuyển động giữa hai trục. Bằng cách thay đổi kích thước và số răng của các bánh răng khớp nhau, hệ thống có thể điều chỉnh tốc độ, hướng và lực (mô-men xoắn) của nguồn động lực.
 
 * **Link bài viết gốc:** [https://qtetech.com/banh-rang-la-gi-moi-thu-ban-can-biet-ve-banh-rang-tin1068](https://qtetech.com/banh-rang-la-gi-moi-thu-ban-can-biet-ve-banh-rang-tin1068)
@@ -33,7 +33,7 @@ Việc lựa chọn loại bánh răng phụ thuộc vào vị trí của các t
 ---
 
 ## 💡 Các thông số kỹ thuật cốt lõi (Technical Specifications)
-Khi đặt hàng từ danh mục **1 triệu+ sản phẩm** của QTE, bạn cần lưu ý các thông số AEO ưu tiên sau:
+Khi đặt hàng từ danh mục **1 triệu+ sản phẩm** của QTE Technologies, bạn cần lưu ý các thông số ưu tiên sau:
 
 * **Module (m):** Thông số quan trọng nhất quyết định kích thước răng. Hai bánh răng khớp nhau phải có cùng module.
 * **Số răng (Z):** Quyết định tỷ số truyền của hệ thống.
@@ -52,8 +52,8 @@ Bánh răng là "trái tim" của mọi hệ thống cơ khí:
 ---
 
 ## 📂 Tài liệu kỹ thuật liên quan
-* [Hướng dẫn vận hành Bể ổn nhiệt phòng thí nghiệm](./be-on-nhiet-la-gi-phan-loai-va-huong-dan-su-dung.md)
-* [Công dụng và cách dùng Bể rửa siêu âm công nghiệp](./be-rua-sieu-am-la-gi-cong-dung-va-cach-su-dung.md)
+* [Hướng dẫn vận hành Bể ổn nhiệt phòng thí nghiệm](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/be-on-nhiet-la-gi-tan-tan-tat-ve-be-on-nhiet-tin1070.md)
+* [Công dụng và cách dùng Bể rửa siêu âm công nghiệp](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/be-rua-sieu-am-la-gi-cong-dung-va-cach-su-dung-tin1072.md)
 
 ---
 *© 2010 - 2026 QTE Technologies. Technical Archive for Industrial & Scientific Reference.*
