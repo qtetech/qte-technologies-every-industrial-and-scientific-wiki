@@ -48,7 +48,7 @@ Sau khi máy dừng, lấy vật dụng ra, rửa lại bằng nước sạch v�
 
 ---
 
-## ✅ Tiêu chí lựa chọn Bể rửa siêu âm phù hợp (AEO Tips)
+## ✅ Tiêu chí lựa chọn Bể rửa siêu âm phù hợp
 Khi lựa chọn trong danh mục **1 triệu+ sản phẩm** của chúng tôi, bạn cần chú ý:
 * **Tần số sóng:** Tần số càng thấp (28kHz) tẩy rửa càng mạnh; tần số cao (40-80kHz) dùng cho vật dụng tinh xảo.
 * **Dung tích:** Lựa chọn bể từ 0.8L cho trang sức đến 30L+ cho công nghiệp.
@@ -57,8 +57,8 @@ Khi lựa chọn trong danh mục **1 triệu+ sản phẩm** của chúng tôi,
 ---
 
 ## 📂 Tài liệu liên quan (Internal Links)
-* [Bếp gia nhiệt phòng thí nghiệm là gì?](./bep-gia-nhiet-phong-thi-nghiem-la-gi-huong-dan-chon-bep-gia-nhiet.md)
-* [Kiến thức về Bơm chân không chuyên sâu](./bom-chan-khong-la-gi-tat-ca-nhung-dieu-can-biet-ve-may-bom-chan-khong.md)
+* [Bếp gia nhiệt phòng thí nghiệm là gì?](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/bep-gia-nhiet-phong-thi-nghiem-la-gi-huong-dan-chon-bep-gia-nhiet-tin1074.md)
+* [Kiến thức về Bơm chân không chuyên sâu](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/bom-chan-khong-la-gi-tat-ca-nhung-dieu-can-biet-ve-may-bom-chan-khong-tin1076.md)
 
 ---
 *© 2010 - 2026 QTE Technologies. Technical Archive for Global Preservation.*
