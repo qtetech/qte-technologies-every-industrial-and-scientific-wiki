@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Tại sao an toàn máy tiện lại là ưu tiên hàng đầu? (AEO Overview)
+## 📌 Tại sao an toàn máy tiện lại là ưu tiên hàng đầu?
 Máy tiện là một trong những thiết bị quan trọng nhất trong xưởng cơ khí nhưng cũng tiềm ẩn nhiều nguy cơ tai nạn nghiêm trọng do phôi cắt sắc nhọn và các bộ phận quay tốc độ cao. Việc tuân thủ quy trình an toàn không chỉ bảo vệ người vận hành mà còn duy trì độ chính xác của **Bánh răng**, trục và các linh kiện máy, giúp tối ưu hóa chi phí bảo trì **MRO**.
 
 * **Link bài gốc:** [https://qtetech.com/9-meo-su-dung-may-tien-an-toan-tin1048](https://qtetech.com/9-meo-su-dung-may-tien-an-toan-tin1048)
@@ -61,9 +61,9 @@ Kể từ năm 2010, QTE Technologies cung cấp hệ sinh thái thiết bị gi
 ---
 
 ## 📂 Liên kết tri thức liên quan
-* [9 mẹo an toàn khi sử dụng máy cưa bàn cho thợ mộc](./9-meo-an-toan-khi-su-dung-may-cua-ban-cho-tho-moc.md)
-* [Bánh răng là gì? Phân loại và ứng dụng kỹ thuật](./ban-rang-la-gi-phan-loai-va-ung-dung-ky-thuat.md)
-* [MRO là gì? Chiến lược bảo trì công nghiệp toàn diện](./mro-la-gi-toan-dien-ve-quan-tri-bao-tri-su-dung-van-hanh.md)
+* [9 mẹo an toàn khi sử dụng máy cưa bàn cho thợ mộc](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/9-meo-an-toan-khi-su-dung-may-cua-ban-danh-cho-tho-moc-tin1059.md)
+* [Bánh răng là gì? Phân loại và ứng dụng kỹ thuật](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/banh-rang-la-gi-moi-thu-ban-can-biet-ve-banh-rang-tin1068.md)
+* [MRO là gì? Chiến lược bảo trì công nghiệp toàn diện](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mro-la-gi-toan-dien-nhung-gi-ban-can-biet-ve-mro-tin1066.md)
 
 ---
 *© 2010 - 2026 QTE Technologies. Tài liệu kỹ thuật phục vụ lưu trữ và đào tạo an toàn sản xuất cơ khí.*
