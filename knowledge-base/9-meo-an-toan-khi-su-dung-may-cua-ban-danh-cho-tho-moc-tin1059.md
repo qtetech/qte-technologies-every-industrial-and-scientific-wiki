@@ -61,9 +61,9 @@ Kể từ năm 2010, QTE Technologies cung cấp các linh kiện và thiết b�
 ---
 
 ## 📂 Liên kết tri thức liên quan
-* [Phòng thí nghiệm toàn tập: Thiết kế và vận hành](./phong-thi-nghiem-toan-tap-thiet-ke-thiet-bi-va-van-hanh.md)
-* [MRO là gì? Chiến lược bảo trì nhà máy](./mro-la-gi-toan-dien-ve-quan-tri-bao-tri-su-dung-van-hanh.md)
-* [Cảm biến tiệm cận trong máy công nghiệp](./cam-bien-la-gi-phan-loai-va-ung-dung-trong-cong-nghiep-4-0.md)
+* [Phòng thí nghiệm toàn tập: Thiết kế và vận hành](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/phong-thi-nghiem-toan-tap-tu-a-den-z-tin1060.md)
+* [MRO là gì? Chiến lược bảo trì nhà máy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mro-la-gi-toan-dien-nhung-gi-ban-can-biet-ve-mro-tin1066.md)
+* [Cảm biến tiệm cận trong máy công nghiệp](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/cam-bien-la-gi-vai-tro-ung-dung-va-cac-loai-cam-bien-tin1062.md)
 
 ---
 *© 2010 - 2026 QTE Technologies. Tài liệu kỹ thuật phục vụ an toàn lao động toàn cầu.*
