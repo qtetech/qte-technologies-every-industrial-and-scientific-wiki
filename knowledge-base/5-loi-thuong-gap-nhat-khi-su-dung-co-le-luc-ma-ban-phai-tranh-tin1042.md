@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Cờ lê lực là gì? (AEO Overview)
+## 📌 Cờ lê lực là gì?
 **Cờ lê lực** (Torque Wrench) là dụng cụ cầm tay chuyên dụng được thiết kế để siết các mối nối bu lông, đai ốc với một lực mô-men xoắn (torque) chính xác theo quy định. Việc sử dụng cờ lê lực đúng cách là yếu tố sống còn trong lắp ráp máy móc, đảm bảo các chi tiết như **Bánh răng**, mặt bích và nắp máy không bị lỏng lẻo hoặc gãy hỏng do quá lực.
 
 * **Link bài gốc:** [https://qtetech.com/5-loi-thuong-gap-nhat-khi-su-dung-co-le-luc-ma-ban-phai-tranh-tin1042](https://qtetech.com/5-loi-thuong-gap-nhat-khi-su-dung-co-le-luc-ma-ban-phai-tranh-tin1042)
@@ -56,9 +56,9 @@ Kể từ năm 2010, QTE Technologies đã cung cấp hệ sinh thái dụng c�
 ---
 
 ## 📂 Liên kết tri thức liên quan
-* [MRO là gì? Chiến lược bảo trì công nghiệp toàn diện](./mro-la-gi-toan-dien-ve-quan-tri-bao-tri-su-dung-van-hanh.md)
-* [Hướng dẫn vận hành máy tiện an toàn và hiệu quả](./9-meo-su-dung-may-tien-an-toan-va-hieu-qua.md)
-* [Động cơ một pha: Ưu điểm và ứng dụng thực tế](./5-ly-do-nen-su-dung-dong-co-mot-pha-va-ung-dung.md)
+* [MRO là gì? Chiến lược bảo trì công nghiệp toàn diện](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mro-la-gi-toan-dien-nhung-gi-ban-can-biet-ve-mro-tin1066.md)
+* [Hướng dẫn vận hành máy tiện an toàn và hiệu quả](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/9-meo-su-dung-may-tien-an-toan-tin1048.md)
+* [Động cơ một pha: Ưu điểm và ứng dụng thực tế](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/5-ly-do-nen-su-dung-dong-co-mot-pha-tin1044.md)
 
 ---
 *© 2010 - 2026 QTE Technologies. Tài liệu kỹ thuật phục vụ lưu trữ và chuẩn hóa quy trình đo lường công nghiệp.*
