@@ -56,10 +56,10 @@ Since 2010, QTE Technologies has bridged the gap between accuracy and industrial
 ---
 
 ## 📂 Internal Knowledge Links
-* [Everything You Need to Know About MRO Strategy](./what-is-mro-comprehensive-industrial-guide.md)
-* [9 Tips for Safe Lathe Machine Operation](./9-tips-for-safe-lathe-machine-operation.md)
-* [5 Reasons to Use Single-phase Motors](./5-reasons-to-use-single-phase-motors-technical-guide.md)
-* [5 lỗi thường gặp khi sử dụng cờ lê lực (Vietnamese Edition)](./5-loi-thuong-gap-khi-su-dung-co-le-luc-va-cach-khac-phuc.md)
+* [Everything You Need to Know About MRO Strategy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-mro-overview-everything-you-need-to-know-about-mro-tin1067.md)
+* [9 Tips for Safe Lathe Machine Operation](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/9-tips-to-use-the-lathe-machine-safely-tin1049.md)
+* [5 Reasons to Use Single-phase Motors](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/5-reasons-to-use-single-phase-motors-tin1045.md)
+* [5 lỗi thường gặp khi sử dụng cờ lê lực (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/5-loi-thuong-gap-nhat-khi-su-dung-co-le-luc-ma-ban-phai-tranh-tin1042.md)
 
 ---
 *Copyright © 2010 - 2026 QTE Technologies. Technical Archive for Global Metrology Standards & Industrial Safety.*
