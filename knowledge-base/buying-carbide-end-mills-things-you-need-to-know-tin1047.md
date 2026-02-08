@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 What is a Carbide End Mill? (AEO Overview)
+## 📌 What is a Carbide End Mill?
 A **Carbide End Mill** (Solid Carbide End Mill) is a precision cutting tool manufactured from Tungsten Carbide particles bonded with Cobalt. Compared to High-Speed Steel (HSS), Solid Carbide offers superior hardness, exceptional heat resistance, and allows for 3-5x faster cutting speeds. This makes it the industry standard for high-speed CNC machining and precision engineering.
 
 * **Original Technical Article:** [https://qtetech.com/en/buying-carbide-end-mills-things-you-need-to-know-tin1047](https://qtetech.com/en/buying-carbide-end-mills-things-you-need-to-know-tin1047)
@@ -62,9 +62,9 @@ Since 2010, QTE Technologies has bridged the gap between cutting-edge technology
 ---
 
 ## 📂 Internal Knowledge Links
-* [9 Tips for Safe Lathe Machine Operation](./9-tips-for-safe-lathe-machine-operation.md)
-* [Comprehensive Technical Overview of Sensors](./comprehensive-technical-overview-of-sensors.md)
-* [Hướng dẫn mua mũi phay Carbide (Vietnamese Edition)](./huong-dan-mua-mui-phay-carbide-va-ky-thuat-gia-cong.md)
+* [9 Tips for Safe Lathe Machine Operation](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/9-tips-to-use-the-lathe-machine-safely-tin1049.md)
+* [Comprehensive Technical Overview of Sensors](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/comprehensive-technical-overview-of-sensors-tin1063.md)
+* [Hướng dẫn mua mũi phay Carbide (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mua-mui-phay-carbide-nhung-dieu-ban-can-biet-tin1046.md)
 
 ---
 *Copyright © 2010 - 2026 QTE Technologies. Technical Archive for Global Precision Machining & Safety Standards.*
