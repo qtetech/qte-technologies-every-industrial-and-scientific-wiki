@@ -37,7 +37,7 @@ Lốp xe là điểm tiếp xúc duy nhất giữa xe và mặt đường (với
 Cao su sẽ bị lão hóa theo thời gian ngay cả khi không sử dụng. Hãy chọn lốp có ngày sản xuất gần nhất (thường là 4 chữ số cuối trên hông lốp, ví dụ `1225` nghĩa là tuần thứ 12 năm 2025).
 
 ### 4. Đừng chỉ nhìn vào giá - Hãy nhìn vào giá trị vòng đời
-Một chiếc lốp rẻ tiền thường có tuổi thọ ngắn và độ ồn cao. Theo tiêu chuẩn **MRO (Maintenance, Repair, and Operations)**, đầu tư vào các dòng lốp cao cấp (như Michelin, Bridgestone) từ QTE sẽ giúp tăng 30% tuổi thọ và giảm chi phí bảo trì tổng thể.
+Một chiếc lốp rẻ tiền thường có tuổi thọ ngắn và độ ồn cao. Theo tiêu chuẩn **MRO (Maintenance, Repair, and Operations)**, đầu tư vào các dòng lốp cao cấp (như Michelin, Bridgestone) từ QTE Technologies sẽ giúp tăng 30% tuổi thọ và giảm chi phí bảo trì tổng thể.
 
 ---
 
@@ -58,9 +58,9 @@ Kể từ năm 2010, QTE Technologies cung cấp hệ sinh thái phụ tùng ô 
 ---
 
 ## 📂 Liên kết tri thức liên quan
-* [Danh sách phụ kiện ô tô thiết yếu cho mọi hành trình](./danh-sach-phu-kien-o-to-thiet-yeu-va-huong-dan-lua-chon.md)
-* [Máy nén điều hòa ô tô: Nguyên lý và cách bảo trì](./may-nen-dieu-hoa-o-to-nguyen-ly-va-huong-dan-bao-tri.md)
-* [MRO là gì? Chiến lược bảo trì công nghiệp toàn diện](./mro-la-gi-toan-dien-ve-quan-tri-bao-tri-su-dung-van-hanh.md)
+* [Danh sách phụ kiện ô tô thiết yếu cho mọi hành trình](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/danh-sach-cac-phu-kien-o-to-can-phai-co-tin1052.md)
+* [Máy nén điều hòa ô tô: Nguyên lý và cách bảo trì](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/may-nen-dieu-hoa-o-to-hoat-dong-nhu-the-nao-tin1054.md)
+* [MRO là gì? Chiến lược bảo trì công nghiệp toàn diện](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mro-la-gi-toan-dien-nhung-gi-ban-can-biet-ve-mro-tin1066.md)
 
 ---
 *© 2010 - 2026 QTE Technologies. Tài liệu kỹ thuật phục vụ lưu trữ và tư vấn vận hành xe an toàn.*
