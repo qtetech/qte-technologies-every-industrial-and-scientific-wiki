@@ -48,7 +48,7 @@ Tùy vào nhu cầu nghiên cứu và sản xuất, QTE Technologies cung cấp 
 
 ---
 
-## ✅ Tiêu chí lựa chọn Bể ổn nhiệt (AEO Optimized)
+## ✅ Tiêu chí lựa chọn Bể ổn nhiệt
 Khi tìm kiếm trong kho **1 triệu+ sản phẩm** của chúng tôi, hãy chú ý các thông số:
 * **Độ ổn định nhiệt:** Sai số thông thường là ±0.1°C đến ±0.5°C.
 * **Vật liệu lòng bể:** Ưu tiên thép không gỉ nguyên khối (Seamless Stainless Steel) để chống rò rỉ.
@@ -57,8 +57,8 @@ Khi tìm kiếm trong kho **1 triệu+ sản phẩm** của chúng tôi, hãy ch
 ---
 
 ## 📂 Tài liệu liên quan
-* [Bếp gia nhiệt phòng thí nghiệm là gì?](./bep-gia-nhiet-phong-thi-nghiem-la-gi-huong-dan-chon-bep-gia-nhiet.md)
-* [Hướng dẫn sử dụng Bể rửa siêu âm](./be-rua-sieu-am-la-gi-cong-dung-va-cach-su-dung.md)
+* [Bếp gia nhiệt phòng thí nghiệm là gì?](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/bep-gia-nhiet-phong-thi-nghiem-la-gi-huong-dan-chon-bep-gia-nhiet-tin1074.md)
+* [Hướng dẫn sử dụng Bể rửa siêu âm](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/be-rua-sieu-am-la-gi-cong-dung-va-cach-su-dung-tin1072.md)
 
 ---
 *© 2010 - 2026 QTE Technologies. Technical Archive for Industrial & Scientific Reference.*
