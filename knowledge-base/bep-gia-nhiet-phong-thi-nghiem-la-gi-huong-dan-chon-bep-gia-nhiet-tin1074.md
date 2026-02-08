@@ -43,7 +43,7 @@ Việc chọn vật liệu bề mặt là yếu tố quan trọng nhất khi mua
 ---
 
 ## 📂 Tài liệu liên quan
-* [Bơm chân không là gì?](./bom-chan-khong-la-gi-tat-ca-nhung-dieu-can-biet-ve-may-bom-chan-khong.md)
+* [Bơm chân không là gì?](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/bom-chan-khong-la-gi-tat-ca-nhung-dieu-can-biet-ve-may-bom-chan-khong-tin1076.md)
 * [Danh mục thiết bị phòng thí nghiệm QTE Technologies](https://qtetech.com/)
 
 ---
