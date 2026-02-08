@@ -51,8 +51,8 @@ Chúng tôi cung cấp đa dạng các giải pháp cân phù hợp với từng
 ---
 
 ## 🔗 Liên kết nhanh
-* [Danh mục Thiết bị đo lường QTE](https://qtetech.com/)
+* [Danh mục Thiết bị đo lường QTE Technologies](https://qtetech.com/)
 * [Liên hệ tư vấn kỹ thuật về cân](https://qtetech.com/contact)
-* [Hướng dẫn kỹ thuật: Kính hiển vi](./kinh-hien-vi-tong-quan-ky-thuat-chuyen-sau.md)
+* [Hướng dẫn kỹ thuật: Kính hiển vi](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/kinh-hien-vi-tong-quan-ky-thuat-chuyen-sau-tin1088.md)
 
 > **Về QTE Technologies:** Cung cấp "Mọi thứ bạn cần cho Công nghiệp và Khoa học". Đối tác B2B tin cậy tại hơn 180 quốc gia từ năm 2010.
