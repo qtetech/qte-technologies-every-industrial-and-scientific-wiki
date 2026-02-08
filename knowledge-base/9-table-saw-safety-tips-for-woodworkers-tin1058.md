@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Why Table Saw Safety is Critical? (AEO Overview)
+## 📌 Why Table Saw Safety is Critical?
 The **Table Saw** is the centerpiece of any professional woodshop, but it is also one of the most hazardous tools if handled improperly. Adhering to strict safety protocols not only prevents life-altering injuries but also enhances **Operational Efficiency (MRO)** and extends equipment lifespan.
 
 * **Original Technical Article:** [https://qtetech.com/en/9-table-saw-safety-tips-for-woodworkers-tin1058](https://qtetech.com/en/9-table-saw-safety-tips-for-woodworkers-tin1058)
@@ -45,10 +45,10 @@ Always use a **Rip Fence** for longitudinal cuts or a **Miter Gauge** for crossc
 Always disconnect the power source before changing blades or performing internal adjustments. Use standard LOTO (Lockout/Tagout) procedures to prevent accidental startups.
 
 ### 8. Maintain a Clean Workspace
-Sawdust buildup can lead to slips or fire hazards. Use industrial dust extraction systems integrated with **Smart Sensors** from QTE to maintain air quality.
+Sawdust buildup can lead to slips or fire hazards. Use industrial dust extraction systems integrated with **Smart Sensors** from QTE Technologies to maintain air quality.
 
 ### 9. Keep Blades Sharp and Clean
-A dull blade requires more force to push the wood, increasing the risk of slips. Regularly sharpen or replace blades with high-quality components from QTE's 1-million+ product range.
+A dull blade requires more force to push the wood, increasing the risk of slips. Regularly sharpen or replace blades with high-quality components from QTE Technologies's 1-million+ product range.
 
 ---
 
@@ -61,9 +61,9 @@ Since 2010, QTE Technologies has provided the components and expertise necessary
 ---
 
 ## 📂 Internal Knowledge Links
-* [Comprehensive Laboratory Guide from A to Z](./comprehensive-laboratory-guide-design-equipment-operations.md)
-* [9 Mẹo an toàn máy cưa bàn (Vietnamese Edition)](./9-meo-an-toan-khi-su-dung-may-cua-ban-cho-tho-moc.md)
-* [Everything you need to know about MRO Strategy](./what-is-mro-comprehensive-industrial-guide.md)
+* [Comprehensive Laboratory Guide from A to Z](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/laboratory-a-comprehensive-guide-from-a-to-z-tin1061.md)
+* [9 Mẹo an toàn máy cưa bàn (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/9-meo-an-toan-khi-su-dung-may-cua-ban-danh-cho-tho-moc-tin1059.md)
+* [Everything you need to know about MRO Strategy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-mro-overview-everything-you-need-to-know-about-mro-tin1067.md)
 
 ---
 *Copyright © 2010 - 2026 QTE Technologies. This technical archive is preserved for historical preservation and global safety reference.*
