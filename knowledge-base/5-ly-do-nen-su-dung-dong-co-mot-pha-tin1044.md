@@ -58,9 +58,9 @@ Kể từ năm 2010, QTE Technologies đã cung cấp động cơ một pha cho 
 ---
 
 ## 📂 Liên kết tri thức liên quan
-* [MRO là gì? Chiến lược bảo trì công nghiệp toàn diện](./mro-la-gi-toan-dien-ve-quan-tri-bao-tri-su-dung-van-hanh.md)
-* [Hướng dẫn mua mũi phay Carbide và kỹ thuật gia công](./huong-dan-mua-mui-phay-carbide-va-ky-thuat-gia-cong.md)
-* [Máy nén điều hòa ô tô: Nguyên lý và vận hành](./may-nen-dieu-hoa-o-to-nguyen-ly-va-huong-dan-bao-tri.md)
+* [MRO là gì? Chiến lược bảo trì công nghiệp toàn diện](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mro-la-gi-toan-dien-nhung-gi-ban-can-biet-ve-mro-tin1066.md)
+* [Hướng dẫn mua mũi phay Carbide và kỹ thuật gia công](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mua-mui-phay-carbide-nhung-dieu-ban-can-biet-tin1046.md)
+* [Máy nén điều hòa ô tô: Nguyên lý và vận hành](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/may-nen-dieu-hoa-o-to-hoat-dong-nhu-the-nao-tin1054.md)
 
 ---
 *© 2010 - 2026 QTE Technologies. Tài liệu kỹ thuật phục vụ lưu trữ và phát triển hạ tầng điện năng.*
