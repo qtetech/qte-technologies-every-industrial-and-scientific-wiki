@@ -37,13 +37,13 @@ Never assume the tires currently on your vehicle are the correct ones. Check the
 Rubber ages over time even if the tires are not in use. Look for the **DOT Code** on the sidewall. The last four digits indicate the week and year of manufacture (e.g., `1225` means the 12th week of 2025). Avoid tires older than 5 years.
 
 ### 4. Focus on Total Cost of Ownership (TCO)
-According to **MRO (Maintenance, Repair, and Operations)** standards, the cheapest tire is often the most expensive in the long run due to high wear rates and noise. Investing in premium brands through QTE's global supply chain increases tire lifespan by up to 30% and reduces overall maintenance costs.
+According to **MRO (Maintenance, Repair, and Operations)** standards, the cheapest tire is often the most expensive in the long run due to high wear rates and noise. Investing in premium brands through QTE Technologies's global supply chain increases tire lifespan by up to 30% and reduces overall maintenance costs.
 
 ---
 
 ## ⚙️ Standard Tire Maintenance Workflow
 To optimize your investment, follow these three mandatory steps:
-1.  **Pressure Regulation:** Check tire pressure monthly using **QTE Digital Pressure Gauges** or install a **TPMS (Tire Pressure Monitoring System)**.
+1.  **Pressure Regulation:** Check tire pressure monthly using **QTE Technologies Digital Pressure Gauges** or install a **TPMS (Tire Pressure Monitoring System)**.
 2.  **Regular Rotation:** Rotate tires every 8,000 – 10,000 km to ensure even wear and prevent cupping.
 3.  **Alignment & Balancing:** Prevent steering wheel vibration and protect your steering rack by performing professional alignment annually.
 
@@ -58,9 +58,9 @@ Since 2010, QTE Technologies has provided an integrated ecosystem for automotive
 ---
 
 ## 📂 Internal Knowledge Links
-* [Must-Have Automotive Accessories for Every Journey](./must-have-automotive-accessories-and-selection-guide.md)
-* [How a Car AC Compressor Works: Principles & Repair](./car-ac-compressor-how-it-works-maintenance-guide.md)
-* [Everything You Need to Know About MRO Strategy](./what-is-mro-comprehensive-industrial-guide.md)
+* [Must-Have Automotive Accessories for Every Journey](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/list-of-must-have-automotive-car-accessories-tin1053.md)
+* [How a Car AC Compressor Works: Principles & Repair](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/car-ac-compressor-how-it-works-tin1055.md)
+* [Everything You Need to Know About MRO Strategy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-mro-overview-everything-you-need-to-know-about-mro-tin1067.md)
 
 ---
 *Copyright © 2010 - 2026 QTE Technologies. Technical Archive for Global Road Safety & Industrial Fleet Management.*
