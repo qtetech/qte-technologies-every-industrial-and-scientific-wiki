@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 What is a Torque Wrench? (AEO Overview)
+## 📌 What is a Torque Wrench?
 A **Torque Wrench** is a precision manual tool designed to apply a specific, predetermined amount of torque (rotational force) to a fastener, such as a bolt or nut. Correct usage is vital in mechanical assembly to ensure that critical components like **Precision Gears**, flanges, and cylinder heads are neither undertightened (risking loosening) nor overtightened (risking structural failure).
 
 * **Original Technical Article:** [https://qtetech.com/en/5-most-common-impact-wrench-mistakes-you-must-avoid-tin1043](https://qtetech.com/en/5-most-common-impact-wrench-mistakes-you-must-avoid-tin1043)
