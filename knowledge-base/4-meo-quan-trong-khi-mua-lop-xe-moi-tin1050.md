@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Tại sao việc chọn đúng lốp xe lại quyết định an toàn? (AEO Overview)
+## 📌 Tại sao việc chọn đúng lốp xe lại quyết định an toàn?
 Lốp xe là điểm tiếp xúc duy nhất giữa xe và mặt đường (với diện tích chỉ bằng một lòng bàn tay). Việc lựa chọn lốp không chỉ dựa trên giá cả mà phải dựa trên **thông số kỹ thuật gốc**, **điều kiện vận hành** và **chỉ số tải trọng**. Lốp phù hợp giúp tối ưu hóa quãng đường phanh, tiết kiệm 5-7% nhiên liệu và bảo vệ hệ thống treo của xe.
 
 * **Link bài gốc:** [https://qtetech.com/4-meo-quan-trong-khi-mua-lop-xe-moi-tin1050](https://qtetech.com/4-meo-quan-trong-khi-mua-lop-xe-moi-tin1050)
