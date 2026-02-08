@@ -26,7 +26,7 @@ Việc chọn vật liệu bề mặt là yếu tố quan trọng nhất khi mua
 
 ## 💡 Hướng dẫn chọn mua bếp gia nhiệt phù hợp
 
-Để chọn được chiếc bếp tối ưu cho QTE Technologies hoặc dự án của bạn, hãy xem xét các tiêu chí sau:
+Để chọn được chiếc bếp tối ưu cho dự án của bạn, hãy xem xét các tiêu chí sau:
 
 1.  **Kích thước mặt bếp:** Phụ thuộc vào số lượng và kích thước cốc đốt (beaker) bạn cần đun cùng lúc.
 2.  **Phạm vi nhiệt độ:** Bạn cần gia nhiệt đến 100°C, 300°C hay 500°C?
