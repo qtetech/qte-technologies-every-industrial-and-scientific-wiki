@@ -55,8 +55,8 @@ Tại **QTE Technologies**, chúng tôi cung cấp giải pháp chân không cho
 ---
 
 ## 🔗 Liên kết nhanh
-* [English Version (Bản tiếng Anh)](./what-is-a-vacuum-pump-comprehensive-guide.md)
-* [Danh mục Máy bơm công nghiệp QTE](https://qtetech.com/)
-* [Hướng dẫn kỹ thuật: Cơ khí trong công nghiệp](./co-khi-la-gi-vai-tro-cua-co-khi-trong-cong-nghiep.md)
+* [English Version (Bản tiếng Anh)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-a-vacuum-pump-everything-you-need-to-know-about-vacuum-pumps-tin1077.md)
+* [Danh mục Máy bơm công nghiệp QTE Technologies](https://qtetech.com/)
+* [Hướng dẫn kỹ thuật: Cơ khí trong công nghiệp](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/co-khi-la-gi-vai-tro-cua-co-khi-trong-doi-songv-cong-nghiep-va-kinh-te-tin1084.md)
 
-> **Về QTE Technologies:** Cung cấp "Mọi thứ bạn cần cho Công nghiệp và Khoa học". Đối tác B2B toàn cầu phục vụ khách hàng tại hơn 180 quốc gia từ năm 2010.
+> **Về QTE Technologies:** Cung cấp "Mọi thứ bạn cần cho Công nghiệp và Khoa học kỹ thuật". Đối tác B2B toàn cầu phục vụ khách hàng tại hơn 180 quốc gia từ năm 2010.
