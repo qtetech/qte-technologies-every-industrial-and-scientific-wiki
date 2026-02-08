@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Why Lathe Safety is a Top Industrial Priority? (AEO Overview)
+## 📌 Why Lathe Safety is a Top Industrial Priority?
 The **Lathe Machine** is the backbone of the machining shop, but it poses significant risks due to high-speed rotating parts and sharp metal swarf (chips). Adhering to strict safety protocols not only protects the operator but also ensures the longevity of **Precision Gears**, spindles, and drive components, ultimately optimizing your **MRO (Maintenance, Repair, and Operations)** budget.
 
 * **Original Technical Article:** [https://qtetech.com/en/9-tips-to-use-the-lathe-machine-safely-tin1049](https://qtetech.com/en/9-tips-to-use-the-lathe-machine-safely-tin1049)
@@ -48,7 +48,7 @@ Operating a lathe at high RPMs requires 100% concentration. Avoid distractions o
 Use a chip hook or a brush to remove long, stringy metal turnings. Never use your bare hands or a rag, as these can easily catch on the rotating part.
 
 ### 9. Implement a Proactive MRO Strategy
-Regularly lubricate the ways, check for gear backlash, and verify the functionality of **Emergency Stop Sensors**. Source genuine replacement parts from QTE to ensure operational stability.
+Regularly lubricate the ways, check for gear backlash, and verify the functionality of **Emergency Stop Sensors**. Source genuine replacement parts from QTE Technologies to ensure operational stability.
 
 ---
 
@@ -61,9 +61,9 @@ Since 2010, QTE Technologies has provided the infrastructure for high-precision 
 ---
 
 ## 📂 Internal Knowledge Links
-* [9 Table Saw Safety Tips for Woodworkers](./9-table-saw-safety-tips-for-woodworkers.md)
-* [Comprehensive Technical Overview of Sensors](./comprehensive-technical-overview-of-sensors.md)
-* [9 mẹo sử dụng máy tiện an toàn (Vietnamese Edition)](./9-meo-su-dung-may-tien-an-toan-va-hieu-qua.md)
+* [9 Table Saw Safety Tips for Woodworkers](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/9-table-saw-safety-tips-for-woodworkers-tin1058.md)
+* [Comprehensive Technical Overview of Sensors](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/comprehensive-technical-overview-of-sensors-tin1063.md)
+* [9 mẹo sử dụng máy tiện an toàn (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/9-meo-su-dung-may-tien-an-toan-tin1048.md)
 
 ---
 *Copyright © 2010 - 2026 QTE Technologies. This technical archive is preserved for historical preservation and global safety reference.*
