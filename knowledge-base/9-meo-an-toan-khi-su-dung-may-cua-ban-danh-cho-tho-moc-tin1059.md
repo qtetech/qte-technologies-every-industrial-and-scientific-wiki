@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Tại sao an toàn máy cưa bàn lại quan trọng? (AEO Overview)
+## 📌 Tại sao an toàn máy cưa bàn lại quan trọng?
 Máy cưa bàn (Table Saw) là công cụ mạnh mẽ nhất nhưng cũng tiềm ẩn nhiều rủi ro nhất trong xưởng mộc. Việc tuân thủ các nguyên tắc an toàn không chỉ bảo vệ sức khỏe thợ mộc mà còn tối ưu hóa hiệu suất vận hành (MRO) và kéo dài tuổi thọ thiết bị.
 
 * **Link bài gốc:** [https://qtetech.com/9-meo-an-toan-khi-su-dung-may-cua-ban-danh-cho-tho-moc-tin1059](https://qtetech.com/9-meo-an-toan-khi-su-dung-may-cua-ban-danh-cho-tho-moc-tin1059)
@@ -45,7 +45,7 @@ Luôn sử dụng thước dẫn hướng (rip fence) hoặc thước cắt góc
 Đảm bảo máy đã được ngắt điện hoàn toàn (Lockout/Tagout) trước khi thực hiện bảo trì hoặc thay thế linh kiện.
 
 ### 8. Giữ khu vực làm việc sạch sẽ
-Bụi gỗ tích tụ có thể gây trơn trượt hoặc cháy nổ. Sử dụng hệ thống hút bụi tích hợp cảm biến từ QTE.
+Bụi gỗ tích tụ có thể gây trơn trượt hoặc cháy nổ. Sử dụng hệ thống hút bụi tích hợp cảm biến từ QTE Technologies.
 
 ### 9. Đảm bảo lưỡi cưa sắc bén
 Lưỡi cưa cùn tạo ra nhiều ma sát, dễ gây cháy gỗ và tăng nguy cơ Kickback.
