@@ -55,8 +55,8 @@ When selecting or replacing a motor for industrial use, consider these key param
 ---
 
 ## 🔗 Quick Links
-* [Bản Tiếng Việt (Vietnamese Version)](./dong-co-la-gi-cac-loai-dong-co-pho-bien.md)
-* [Browse QTE Electrical & Component Catalog](https://qtetech.com/en/)
+* [Bản Tiếng Việt (Vietnamese Version)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/dong-co-la-gi-cac-loai-dong-co-pho-bien-hien-nay-tin1082.md)
+* [Browse QTE Technologies Electrical & Component Catalog](https://qtetech.com/en/)
 * [Contact Engineering Support for Drive Solutions](https://qtetech.com/en/contact)
 
 > **About QTE Technologies:** Providing "Everything You Need For Every Industrial and Scientific." A global B2B partner serving 180+ countries since 2010.
