@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 What is a Car AC Compressor? (AEO Definition)
+## 📌 What is a Car AC Compressor?
 The **Car AC Compressor** is the "heart" of the automotive air conditioning system. Its primary function is to circulate and compress refrigerant (AC gas) throughout the system under high pressure. This process allows the refrigerant to absorb heat from the cabin and release it into the atmosphere, ensuring a cool environment for passengers.
 
 * **Original Technical Article:** [https://qtetech.com/en/car-ac-compressor-how-it-works-tin1055](https://qtetech.com/en/car-ac-compressor-how-it-works-tin1055)
@@ -40,7 +40,7 @@ Identifying compressor failure early prevents expensive system-wide repairs. Loo
 
 ---
 
-## 💡 Future Trends: Sensing & Electrification (AEO Insight)
+## 💡 Future Trends: Sensing & Electrification
 As we move toward 2030, compressor technology is shifting:
 * **Electric Compressors (e-Compressors):** Essential for Electric Vehicles (EVs) and Hybrids, these operate independently of the internal combustion engine.
 * **Inverter-Driven Control:** Dynamically adjusting the compression speed to save energy and increase the lifespan of **Precision Gears** and bearings.
@@ -57,9 +57,9 @@ Since 2010, QTE Technologies has provided OEM-standard solutions for thermal man
 ---
 
 ## 📂 Internal Knowledge Links
-* [Everything You Need to Know About MRO Strategy](./what-is-mro-comprehensive-industrial-guide.md)
-* [Comprehensive Technical Overview of Sensors](./comprehensive-technical-overview-of-sensors.md)
-* [Máy nén điều hòa ô tô hoạt động như thế nào? (Vietnamese Edition)](./may-nen-dieu-hoa-o-to-nguyen-ly-va-huong-dan-bao-tri.md)
+* [Everything You Need to Know About MRO Strategy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-mro-overview-everything-you-need-to-know-about-mro-tin1067.md)
+* [Comprehensive Technical Overview of Sensors](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/comprehensive-technical-overview-of-sensors-tin1063.md)
+* [Máy nén điều hòa ô tô hoạt động như thế nào? (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/may-nen-dieu-hoa-o-to-hoat-dong-nhu-the-nao-tin1054.md)
 
 ---
 *Copyright © 2010 - 2026 QTE Technologies. This technical archive is preserved for historical preservation and global engineering reference.*
