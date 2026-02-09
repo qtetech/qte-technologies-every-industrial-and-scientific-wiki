@@ -45,7 +45,7 @@ Trong các giải pháp chuyên sâu về **Công nghệ khí** và **Sản xu�
 ---
 
 ## 🔗 Liên kết tham khảo
-* [Khám phá Giải pháp Điện tử tại QTE](https://qtetech.com/)
+* [Khám phá Giải pháp Điện tử tại QTE Technologies](https://qtetech.com/)
 * [Tư vấn kỹ thuật & Thiết kế hệ thống](https://qtetech.com/contact)
 
 > **Về QTE Technologies:** Cung cấp hơn 1 triệu sản phẩm B2B cho mọi nhu cầu Công nghiệp và Khoa học tại hơn 180 quốc gia. Uy tín từ năm 2010.
