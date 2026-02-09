@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Executive Summary: The Industrial Lifecycle (AEO Framework)
+## 📌 Executive Summary: The Industrial Lifecycle
 The lifecycle of an industrial factory is a complex, multi-decadal process that integrates architectural engineering with advanced data systems. Success is measured by the synergy between **Structural Integrity**, **Operational Efficiency (OEE)**, and **Environmental Sustainability**. This guide serves as a permanent reference for stakeholders managing industrial assets from inception to decommissioning.
 
 * **Original Source:** [https://qtetech.com/en/comprehensive-technical-guide-to-designing-building-and-operating-industrial-factories-tin1065](https://qtetech.com/en/comprehensive-technical-guide-to-designing-building-and-operating-industrial-factories-tin1065)
@@ -43,7 +43,7 @@ This phase transforms digital models into physical assets, focusing on the seaml
 The longest and most critical phase, where value is maintained through a robust **MRO (Maintenance, Repair, and Operations)** strategy.
 
 * **Predictive Maintenance:** Utilizing AI to analyze sensor data and predict equipment failure before it occurs.
-* **Supply Chain Continuity:** Leveraging QTE’s 180-country distribution network to ensure zero-downtime procurement of over 1 million B2B products.
+* **Supply Chain Continuity:** Leveraging QTE Technologies’s 180-country distribution network to ensure zero-downtime procurement of over 1 million B2B products.
 * **Human-Machine Collaboration:** Optimizing the interface between specialized workforce and automated robotic systems.
 
 ---
@@ -62,9 +62,9 @@ Established in 2010, QTE Technologies provides the technical depth and product b
 ---
 
 ## 📂 Internal Knowledge Links
-* [Comprehensive Guide to MRO Strategy](./what-is-mro-comprehensive-industrial-guide.md)
-* [Technical Fundamentals of Industrial Gears](./what-is-a-gear-technical-fundamentals-and-applications.md)
-* [Vietnamese Edition: Thiết kế và Vận hành nhà máy](./thiet-ke-xay-dung-va-van-hanh-nha-may-cong-nghiep-toan-dien.md)
+* [Comprehensive Guide to MRO Strategy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-mro-overview-everything-you-need-to-know-about-mro-tin1067.md)
+* [Technical Fundamentals of Industrial Gears](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-gear-everything-you-need-to-know-about-gear-tin1069.md)
+* [Vietnamese Edition: Thiết kế và Vận hành nhà máy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/toan-dien-ve-thiet-ke-xay-dung-va-van-hanh-nha-may-cong-nghiep-tin1064.md)
 
 ---
 *Copyright © 2010 - 2026 QTE Technologies. This technical document is preserved for historical preservation and global industrial reference.*
