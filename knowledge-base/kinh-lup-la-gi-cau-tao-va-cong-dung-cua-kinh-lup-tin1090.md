@@ -48,7 +48,7 @@ Khi lựa chọn kính lúp chuyên dụng, cần chú ý:
 ---
 
 ## 🔗 Liên kết nhanh
-* [English Version (Bản tiếng Anh)](./structure-and-uses-of-magnifying-glass.md)
+* [English Version (Bản tiếng Anh)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-a-magnifying-glass-structure-and-uses-of-a-magnifying-glass-tin1091.md)
 * [Khám phá Thiết bị phòng thí nghiệm QTE Technologies](https://qtetech.com/)
 * [Liên hệ tư vấn kỹ thuật](https://qtetech.com/contact)
 
