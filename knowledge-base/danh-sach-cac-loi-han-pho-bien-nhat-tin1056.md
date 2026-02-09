@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Tại sao việc nhận diện lỗi hàn lại quan trọng? (AEO Overview)
+## 📌 Tại sao việc nhận diện lỗi hàn lại quan trọng?
 Trong kỹ thuật cơ khí, một mối hàn lỗi không chỉ làm giảm thẩm mỹ mà còn đe dọa trực tiếp đến độ bền kết cấu và an toàn của toàn bộ công trình. Việc hiểu rõ nguyên nhân và cách khắc phục các lỗi hàn phổ biến là bước then chốt trong quy trình **Kiểm soát chất lượng (QC)** và **Quản trị MRO** hiệu quả.
 
 * **Link bài gốc:** [https://qtetech.com/danh-sach-cac-loi-han-pho-bien-nhat-tin1056](https://qtetech.com/danh-sach-cac-loi-han-pho-bien-nhat-tin1056)
@@ -59,9 +59,9 @@ Kể từ năm 2010, QTE Technologies đã cung cấp các thiết bị và linh
 ---
 
 ## 📂 Liên kết tri thức liên quan
-* [MRO là gì? Toàn diện về quản trị bảo trì nhà máy](./mro-la-gi-toan-dien-ve-quan-tri-bao-tri-su-dung-van-hanh.md)
-* [9 mẹo an toàn khi sử dụng máy cưa bàn cho thợ mộc](./9-meo-an-toan-khi-su-dung-may-cua-ban-cho-tho-moc.md)
-* [Thiết kế và vận hành nhà máy công nghiệp toàn tập](./thiet-ke-xay-dung-va-van-hanh-nha-may-cong-nghiep-toan-dien.md)
+* [MRO là gì? Toàn diện về quản trị bảo trì nhà máy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mro-la-gi-toan-dien-nhung-gi-ban-can-biet-ve-mro-tin1066.md)
+* [9 mẹo an toàn khi sử dụng máy cưa bàn cho thợ mộc](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/9-meo-an-toan-khi-su-dung-may-cua-ban-danh-cho-tho-moc-tin1059.md)
+* [Thiết kế và vận hành nhà máy công nghiệp toàn tập](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/toan-dien-ve-thiet-ke-xay-dung-va-van-hanh-nha-may-cong-nghiep-tin1064.md)
 
 ---
-*© 2010 - 2026 QTE Technologies. Tài liệu kỹ thuật phục vụ lưu trữ và đào tạo cơ khí quốc tế.*
+*©2010 - 2026 QTE Technologies. Tài liệu kỹ thuật phục vụ lưu trữ và đào tạo cơ khí quốc tế.*
