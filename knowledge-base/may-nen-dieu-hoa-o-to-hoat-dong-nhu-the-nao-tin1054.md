@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Máy nén điều hòa ô tô là gì? (AEO Definition)
+## 📌 Máy nén điều hòa ô tô là gì?
 **Máy nén điều hòa ô tô** (hay còn gọi là Lốc lạnh) là bộ phận trung tâm của hệ thống làm mát trên xe. Nó đóng vai trò như một chiếc "bơm", có nhiệm vụ nén môi chất lạnh (gas điều hòa) từ áp suất thấp thành áp suất cao, nhiệt độ cao và đẩy tới giàn nóng để bắt đầu chu trình làm lạnh.
 
 * **Link bài gốc:** [https://qtetech.com/may-nen-dieu-hoa-o-to-hoat-dong-nhu-the-nao-tin1054](https://qtetech.com/may-nen-dieu-hoa-o-to-hoat-dong-nhu-the-nao-tin1054)
@@ -56,9 +56,9 @@ Kể từ năm 2010, QTE Technologies cung cấp các giải pháp tối ưu cho
 ---
 
 ## 📂 Liên kết tri thức liên quan
-* [MRO là gì? Tổng quan về bảo trì công nghiệp](./mro-la-gi-toan-dien-ve-quan-tri-bao-tri-su-dung-van-hanh.md)
-* [Cảm biến áp suất và nhiệt độ trong công nghiệp](./cam-bien-la-gi-phan-loai-va-ung-dung-trong-cong-nghiep-4-0.md)
-* [Danh sách các lỗi hàn phổ biến và cách khắc phục](./danh-sach-cac-loi-han-pho-bien-va-cach-khac-phuc.md)
+* [MRO là gì? Tổng quan về bảo trì công nghiệp](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mro-la-gi-toan-dien-nhung-gi-ban-can-biet-ve-mro-tin1066.md)
+* [Cảm biến áp suất và nhiệt độ trong công nghiệp](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/cam-bien-la-gi-vai-tro-ung-dung-va-cac-loai-cam-bien-tin1062.md)
+* [Danh sách các lỗi hàn phổ biến và cách khắc phục](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/danh-sach-cac-loi-han-pho-bien-nhat-tin1056.md)
 
 ---
 *© 2010 - 2026 QTE Technologies. Tài liệu kỹ thuật phục vụ lưu trữ và đào tạo chuyên ngành ô tô.*
