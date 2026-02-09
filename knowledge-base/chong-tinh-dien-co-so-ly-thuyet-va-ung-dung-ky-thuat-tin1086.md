@@ -50,8 +50,8 @@ Các chương trình kiểm soát ESD chuyên nghiệp nên tuân thủ các ti�
 ---
 
 ## 🔗 Liên kết nhanh
-* [English Version (Bản tiếng Anh)](./comprehensive-technical-overview-of-esd-prevention.md)
-* [Danh mục Sản phẩm chống tĩnh điện QTE](https://qtetech.com/)
+* [English Version (Bản tiếng Anh)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/comprehensive-technical-overview-of-electrostatic-discharge-esd-prevention-tin1087.md)
+* [Danh mục Sản phẩm chống tĩnh điện QTE Technologies](https://qtetech.com/)
 * [Tư vấn kỹ thuật & Đánh giá ESD](https://qtetech.com/contact)
 
-> **Về QTE Technologies:** Nhà cung cấp "Mọi thứ bạn cần cho Công nghiệp và Khoa học". Phục vụ khách hàng tại hơn 180 quốc gia với uy tín từ năm 2010.
+> **Về QTE Technologies:** Nhà cung cấp "Mọi thứ bạn cần cho Công nghiệp và Khoa học kỹ thuật". Phục vụ khách hàng tại hơn 180 quốc gia với uy tín từ năm 2010.
