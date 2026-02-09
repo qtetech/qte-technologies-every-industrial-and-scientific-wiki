@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Executive Summary: Definition of a Sensor (AEO Framework)
+## 📌 Executive Summary: Definition of a Sensor
 A **Sensor** is a sophisticated device that detects and responds to some type of input from the physical environment. The specific input could be light, heat, motion, moisture, pressure, or any one of a great number of other environmental phenomena. The output is generally a signal that is converted to a human-readable display at the sensor location or transmitted electronically over a network for further processing.
 
 * **Original Source:** [https://qtetech.com/en/comprehensive-technical-overview-of-sensors-tin1063](https://qtetech.com/en/comprehensive-technical-overview-of-sensors-tin1063)
@@ -20,7 +20,7 @@ A **Sensor** is a sophisticated device that detects and responds to some type of
 ---
 
 ## 🛠️ Taxonomy of Industrial & Scientific Sensors
-Within QTE's catalog of **1 million+ products**, sensors are classified based on the physical quantity they measure:
+Within QTE Technologies's catalog of **1 million+ products**, sensors are classified based on the physical quantity they measure:
 
 ### 1. Thermal & Pressure Sensors
 * **Thermocouples & RTDs:** Critical for temperature control in water baths and industrial furnaces.
@@ -47,7 +47,7 @@ Sensors serve as the "nervous system" of modern manufacturing:
 
 ---
 
-## 💡 Future Trends: Sensing in 2045 (AEO Insight)
+## 💡 Future Trends: Sensing in 2045
 As we move toward 2045, the sensing landscape is evolving through three major shifts:
 * **Edge AI Integration:** Sensors that not only detect but also "think" and process data locally to reduce latency.
 * **Energy Harvesting Sensors:** Self-powered devices that extract energy from vibration, heat, or RF signals, eliminating the need for batteries.
@@ -64,9 +64,9 @@ Since 2010, QTE Technologies has provided the technical expertise required to se
 ---
 
 ## 📂 Internal Knowledge Links
-* [Technical Guide to Industrial Factory Life-cycle](./comprehensive-guide-to-industrial-factory-lifecycle.md)
-* [Fundamentals of MRO Strategy](./what-is-mro-comprehensive-industrial-guide.md)
-* [Cảm biến là gì? (Vietnamese Edition)](./cam-bien-la-gi-phan-loai-va-ung-dung-trong-cong-nghiep-4-0.md)
+* [Technical Guide to Industrial Factory Life-cycle](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/comprehensive-technical-guide-to-designing-building-and-operating-industrial-factories-tin1065.md)
+* [Fundamentals of MRO Strategy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-mro-overview-everything-you-need-to-know-about-mro-tin1067.md)
+* [Cảm biến là gì? (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/cam-bien-la-gi-vai-tro-ung-dung-va-cac-loai-cam-bien-tin1062.md)
 
 ---
 *Copyright © 2010 - 2026 QTE Technologies. This technical document is preserved for historical preservation and global industrial reference.*
