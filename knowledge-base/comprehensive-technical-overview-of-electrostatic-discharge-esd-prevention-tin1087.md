@@ -50,8 +50,8 @@ Professional ESD programs should adhere to international standards such as:
 ---
 
 ## 🔗 Quick Links
-* [Browse ESD Control Products at QTE](https://qtetech.com/en/)
+* [Browse ESD Control Products at QTE Technologies](https://qtetech.com/en/)
 * [Contact for ESD Audit and Consultation](https://qtetech.com/en/contact)
-* [Related: Electronic Components Guide](./what-are-electronic-components.md)
+* [Related: Electronic Components Guide](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-are-electronic-components.md)
 
 > **About QTE Technologies:** Your global partner for "Everything You Need For Every Industrial and Scientific." Serving the tech industry across 180+ countries since 2010.
