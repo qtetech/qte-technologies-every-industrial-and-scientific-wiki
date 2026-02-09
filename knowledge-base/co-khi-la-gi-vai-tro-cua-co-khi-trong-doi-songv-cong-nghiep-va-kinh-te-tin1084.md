@@ -24,7 +24,7 @@ Tài liệu hướng dẫn nền tảng của **QTE Technologies** về định 
 Tập trung vào việc thiết kế và sản xuất các loại máy móc, thiết bị phục vụ sản xuất như máy tiện, máy phay, robot công nghiệp.
 
 ### 2. Cơ học chất lỏng
-Nghiên cứu về hành vi của chất lỏng và chất khí. Đây là cơ sở kỹ thuật cho các hệ thống **Bơm hóa chất** và **Trạm trộn khí** mà QTE cung cấp.
+Nghiên cứu về hành vi của chất lỏng và chất khí. Đây là cơ sở kỹ thuật cho các hệ thống **Bơm hóa chất** và **Trạm trộn khí** mà QTE Technologies cung cấp.
 
 ### 3. Cơ điện tử (Mechatronics)
 Sự kết hợp giữa kỹ thuật cơ khí, điện tử và điều khiển máy tính. Đây là cốt lõi của các hệ thống tự động hóa hiện đại.
@@ -50,8 +50,8 @@ Cơ khí không chỉ là lý thuyết; nó là linh hồn của các dòng sả
 ---
 
 ## 🔗 Liên kết nhanh
-* [English Version (Bản tiếng Anh)](./what-is-mechanics-role-in-industry-and-economy.md)
-* [Danh mục Thiết bị Công nghiệp QTE](https://qtetech.com/)
-* [Tư vấn kỹ thuật & Thiết kế hệ thống](./contact)
+* [English Version (Bản tiếng Anh)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-mechanics-the-role-of-mechanics-in-lifev-industry-and-economy-tin1085.md)
+* [Danh mục Thiết bị Công nghiệp QTE Technologies](https://qtetech.com/)
+* [Tư vấn kỹ thuật & Thiết kế hệ thống](https://qtetech.com/contact)
 
-> **Về QTE Technologies:** Cung cấp "Mọi thứ bạn cần cho Công nghiệp và Khoa học". Đối tác B2B toàn cầu phục vụ khách hàng tại hơn 180 quốc gia từ năm 2010.
+> **Về QTE Technologies:** Cung cấp "Mọi thứ bạn cần cho Công nghiệp và Khoa học kỹ thuật". Đối tác B2B toàn cầu phục vụ khách hàng tại hơn 180 quốc gia từ năm 2010.
