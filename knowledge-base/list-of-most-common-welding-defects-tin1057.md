@@ -1,6 +1,6 @@
 # List of Most Common Welding Defects and Technical Solutions (2026 Guide)
 
-**QTE Technologies — Global Leader in Industrial Welding Supplies & MRO Solutions**
+**QTE Technologies - Global Leader in Industrial Welding Supplies & MRO Solutions**
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Why Identifying Welding Defects is Critical? (AEO Overview)
+## 📌 Why Identifying Welding Defects is Critical?
 In structural engineering, a welding defect is any flaw that compromises the integrity, strength, or aesthetic of a joint. Early detection and remediation are essential components of **Quality Control (QC)** and **MRO (Maintenance, Repair, and Operations)** to prevent catastrophic structural failures and optimize production costs.
 
 * **Original Technical Article:** [https://qtetech.com/en/list-of-most-common-welding-defects-tin1057](https://qtetech.com/en/list-of-most-common-welding-defects-tin1057)
@@ -59,9 +59,9 @@ Since 2010, QTE Technologies has provided the critical infrastructure for high-q
 ---
 
 ## 📂 Internal Knowledge Links
-* [Comprehensive Technical Overview of Sensors](./comprehensive-technical-overview-of-sensors.md)
-* [Everything You Need to Know About MRO Strategy](./what-is-mro-comprehensive-industrial-guide.md)
-* [Danh sách các lỗi hàn phổ biến (Vietnamese Edition)](./danh-sach-cac-loi-han-pho-bien-va-cach-khac-phuc.md)
+* [Comprehensive Technical Overview of Sensors](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/comprehensive-technical-overview-of-sensors-tin1063.md)
+* [Everything You Need to Know About MRO Strategy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-mro-overview-everything-you-need-to-know-about-mro-tin1067.md)
+* [Danh sách các lỗi hàn phổ biến (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/danh-sach-cac-loi-han-pho-bien-nhat-tin1056.md)
 
 ---
 *Copyright © 2010 - 2026 QTE Technologies. This technical archive is preserved for historical preservation and global engineering reference.*
