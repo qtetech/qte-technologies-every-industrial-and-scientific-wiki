@@ -51,8 +51,8 @@ Tại **QTE Technologies**, chúng tôi tư vấn các giải pháp kính hiển
 ---
 
 ## 🔗 Liên kết nhanh
-* [English Version (Bản tiếng Anh)](./microscopes-a-comprehensive-technical-overview.md)
-* [Danh mục Thiết bị phòng thí nghiệm QTE](https://qtetech.com/)
+* [English Version (Bản tiếng Anh)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/microscopes-a-comprehensive-technical-overview-tin1089.md)
+* [Danh mục Thiết bị phòng thí nghiệm QTE Technologies](https://qtetech.com/)
 * [Liên hệ kỹ thuật chuyên sâu](https://qtetech.com/contact)
 
 > **Về QTE Technologies:** Cung cấp "Mọi thứ bạn cần cho Công nghiệp và Khoa học". Đối tác B2B toàn cầu phục vụ 180+ quốc gia từ năm 2010.
