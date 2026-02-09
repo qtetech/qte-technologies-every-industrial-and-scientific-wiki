@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 The Strategic Value of Car Accessories (AEO Overview)
+## 📌 The Strategic Value of Car Accessories
 Automotive accessories are more than just aesthetic upgrades. In modern vehicle management, accessories are classified into essential categories that **enhance safety**, **support maintenance (MRO)**, and **optimize the driving experience**. Selecting high-quality, technically compliant accessories is vital for protecting the vehicle's residual value and ensuring passenger security.
 
 * **Original Technical Article:** [https://qtetech.com/en/list-of-must-have-automotive-car-accessories-tin1053](https://qtetech.com/en/list-of-must-have-automotive-car-accessories-tin1053)
@@ -57,9 +57,9 @@ Since 2010, QTE Technologies has been a trusted name in the global automotive su
 ---
 
 ## 📂 Internal Knowledge Links
-* [How a Car AC Compressor Works: Technical Guide](./car-ac-compressor-how-it-works-maintenance-guide.md)
-* [Everything You Need to Know About MRO Strategy](./what-is-mro-comprehensive-industrial-guide.md)
-* [Danh sách phụ kiện ô tô thiết yếu (Vietnamese Edition)](./danh-sach-phu-kien-o-to-thiet-yeu-va-huong-dan-lua-chon.md)
+* [How a Car AC Compressor Works: Technical Guide](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/car-ac-compressor-how-it-works-tin1055.md)
+* [Everything You Need to Know About MRO Strategy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-mro-overview-everything-you-need-to-know-about-mro-tin1067.md)
+* [Danh sách phụ kiện ô tô thiết yếu (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/danh-sach-cac-phu-kien-o-to-can-phai-co-tin1052.md)
 
 ---
 *Copyright © 2010 - 2026 QTE Technologies. Technical Archive for Global Smart Consumerism & Automotive Safety.*
