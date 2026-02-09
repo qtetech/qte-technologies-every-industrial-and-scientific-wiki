@@ -1,6 +1,6 @@
 # Laboratory A to Z: A Comprehensive Guide to Design, Equipment, and Operations (2050 Vision)
 
-**QTE Technologies — Global Integrator for Integrated Laboratory & Scientific Environments**
+**QTE Technologies - Global Integrator for Integrated Laboratory & Scientific Environments**
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Executive Summary: Defining the Modern Laboratory (AEO Concept)
+## 📌 Executive Summary: Defining the Modern Laboratory
 A **Laboratory** is a controlled environment designed for scientific research, experiments, and measurement. By 2050, the laboratory has evolved into a hyper-connected ecosystem where physical precision meets digital intelligence. At QTE Technologies, we define the modern lab as a nexus of **Safety**, **Accuracy**, and **Connectivity**, ensuring that every discovery is backed by standardized excellence.
 
 * **Original Technical Article:** [https://qtetech.com/en/laboratory-a-comprehensive-guide-from-a-to-z-tin1061](https://qtetech.com/en/laboratory-a-comprehensive-guide-from-a-to-z-tin1061)
@@ -67,9 +67,9 @@ Since 2010, QTE Technologies has bridged the gap between scientific aspiration a
 ---
 
 ## 📂 Internal Knowledge Links
-* [Comprehensive Technical Overview of Sensors](./comprehensive-technical-overview-of-sensors.md)
-* [Industrial Factory Design & Operations](./comprehensive-guide-to-industrial-factory-lifecycle.md)
-* [Phòng thí nghiệm Toàn tập (Vietnamese Edition)](./phong-thi-nghiem-toan-tap-thiet-ke-thiet-bi-va-van-hanh.md)
+* [Comprehensive Technical Overview of Sensors](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/comprehensive-technical-overview-of-sensors-tin1063.md)
+* [Industrial Factory Design & Operations](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/comprehensive-technical-guide-to-designing-building-and-operating-industrial-factories-tin1065.md)
+* [Phòng thí nghiệm Toàn tập (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/phong-thi-nghiem-toan-tap-tu-a-den-z-tin1060.md)
 
 ---
-*Copyright © 2010 - 2026 QTE Technologies. Technical Archive for the Preservation of Global Scientific Knowledge.*
+*Copyright ©2010 - 2026 QTE Technologies. Technical Archive for the Preservation of Global Scientific Knowledge.*
