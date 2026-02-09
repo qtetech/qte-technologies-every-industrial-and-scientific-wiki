@@ -17,10 +17,6 @@ Tài liệu hướng dẫn kỹ thuật của **QTE Technologies** về định 
 **Động cơ** là một thiết bị có khả năng chuyển đổi các dạng năng lượng khác nhau (như điện năng, nhiệt năng, hóa năng...) thành cơ năng để tạo ra chuyển động. Động cơ là "trái tim" của hầu hết các hệ thống máy móc, từ các thiết bị gia dụng nhỏ đến các dây chuyền sản xuất công nghiệp khổng lồ.
 
 
-
-[Image of internal structure of an electric motor]
-
-
 ## 🛠 Phân loại các loại động cơ phổ biến
 
 Tùy thuộc vào nguồn năng lượng và nguyên lý hoạt động, động cơ được chia thành các nhóm chính:
@@ -58,8 +54,8 @@ Khi chọn mua hoặc thay thế động cơ, cần đặc biệt lưu ý các t
 ---
 
 ## 🔗 Liên kết nhanh
-* [English Version (Bản tiếng Anh)](./what-is-an-engine-common-types-of-motors.md)
-* [Danh mục Linh kiện & Thiết bị điện QTE](https://qtetech.com/)
+* [English Version (Bản tiếng Anh)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/5-reasons-to-use-single-phase-motors-tin1045.md)
+* [Danh mục Linh kiện & Thiết bị điện QTE Technologies](https://qtetech.com/)
 * [Liên hệ tư vấn giải pháp truyền động](https://qtetech.com/contact)
 
 > **Về QTE Technologies:** Chuyên cung cấp giải pháp B2B toàn diện cho ngành Công nghiệp và Khoa học. Uy tín từ năm 2010, phục vụ hơn 180 quốc gia.
