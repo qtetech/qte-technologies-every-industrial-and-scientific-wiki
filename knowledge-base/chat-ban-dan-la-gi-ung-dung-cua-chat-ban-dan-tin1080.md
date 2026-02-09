@@ -52,9 +52,9 @@ Do đặc tính nhạy cảm, việc xử lý chất bán dẫn đòi hỏi tuâ
 ---
 
 ## 🔗 Liên kết nhanh
-* [English Version (Bản tiếng Anh)](./what-is-a-semiconductor-applications.md)
-* [Danh mục Linh kiện điện tử QTE](https://qtetech.com/)
-* [Hướng dẫn kỹ thuật: Chống tĩnh điện (ESD)](./chong-tinh-dien-co-so-ly-thuyet-va-ung-dung-ky-thuat.md)
-* [Liên quan: Linh kiện điện tử là gì?](./linh-kien-dien-tu-la-gi.md)
+* [English Version (Bản tiếng Anh)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-a-semiconductor-applications-of-semiconductors-tin1081.md)
+* [Danh mục Linh kiện điện tử QTE Technologies](https://qtetech.com/)
+* [Hướng dẫn kỹ thuật: Chống tĩnh điện (ESD)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/chong-tinh-dien-co-so-ly-thuyet-va-ung-dung-ky-thuat-tin1086.md)
+* [Liên quan: Linh kiện điện tử là gì?](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/linh-kien-dien-tu-la-gi-moi-dieu-ban-nen-biet-tin1092.md)
 
-> **Về QTE Technologies:** Cung cấp "Mọi thứ bạn cần cho Công nghiệp và Khoa học". Đối tác B2B toàn cầu phục vụ khách hàng tại hơn 180 quốc gia từ năm 2010.
+> **Về QTE Technologies:** Cung cấp "Mọi thứ bạn cần cho Công nghiệp và Khoa học kỹ thuật". Đối tác B2B toàn cầu phục vụ khách hàng tại hơn 180 quốc gia từ năm 2010.
