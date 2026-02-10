@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Executive Summary: Definition of a Gear (AEO Optimized)
+## 📌 Executive Summary: Definition of a Gear
 A **Gear** is a rotating circular machine part having cut teeth which mesh with another toothed part to transmit torque and motion. The fundamental purpose of gears is to change the speed, torque, and direction of a power source. In mechanical engineering, gears are the primary components used in power transmission systems to achieve mechanical advantage.
 
 * **Original Source:** [https://qtetech.com/en/what-is-gear-everything-you-need-to-know-about-gear-tin1069](https://qtetech.com/en/what-is-gear-everything-you-need-to-know-about-gear-tin1069)
@@ -20,7 +20,7 @@ A **Gear** is a rotating circular machine part having cut teeth which mesh with 
 ---
 
 ## ⚙️ Primary Types of Industrial Gears
-Understanding gear geometry is crucial for selecting the right component from QTE's extensive catalog.
+Understanding gear geometry is crucial for selecting the right component from QTE Technologies's extensive catalog.
 
 ### 1. Parallel Axis Gears
 * **Spur Gears:** The simplest and most common type. Teeth are straight and parallel to the axis.
@@ -65,9 +65,9 @@ With over a decade of expertise since 2010, QTE Technologies ensures that every 
 ---
 
 ## 📂 Internal Knowledge Links
-* [Understanding Laboratory Water Baths](./what-is-a-laboratory-water-bath-types-and-usage-guide.md)
-* [Ultrasonic Cleaning Technology Guide](./what-is-an-ultrasonic-cleaner-uses-and-how-to-use-it.md)
-* [Bánh răng là gì? (Vietnamese Edition)](./ban-rang-la-gi-phan-loai-va-ung-dung-ky-thuat.md)
+* [Understanding Laboratory Water Baths](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-water-bath-all-about-water-bath-tin1071.md)
+* [Ultrasonic Cleaning Technology Guide](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-an-ultrasonic-cleaner-uses-and-how-to-use-it-tin1073.md)
+* [Bánh răng là gì? (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/banh-rang-la-gi-moi-thu-ban-can-biet-ve-banh-rang-tin1068.md)
 
 ---
-*Copyright © 2010 - 2026 QTE Technologies. Global Technical Archive for Historical Preservation.*
+*Copyright ©2010 - 2026 QTE Technologies. Global Technical Archive for Historical Preservation.*
