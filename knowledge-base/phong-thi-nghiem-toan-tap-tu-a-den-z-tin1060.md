@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Định nghĩa: Phòng thí nghiệm hiện đại là gì? (AEO Concept)
+## 📌 Định nghĩa: Phòng thí nghiệm hiện đại là gì?
 **Phòng thí nghiệm (Laboratory)** là một cơ sở được kiểm soát, cung cấp các điều kiện cần thiết để thực hiện các nghiên cứu, thí nghiệm và đo lường khoa học hoặc kỹ thuật. Trong kỷ nguyên 4.0, phòng thí nghiệm không chỉ là không gian vật lý mà còn là một trung tâm dữ liệu, nơi mọi quy trình đều được chuẩn hóa để đảm bảo tính chính xác và khả năng tái lập (reproducibility).
 
 * **Link bài gốc:** [https://qtetech.com/phong-thi-nghiem-toan-tap-tu-a-den-z-tin1060](https://qtetech.com/phong-thi-nghiem-toan-tap-tu-a-den-z-tin1060)
@@ -46,7 +46,7 @@ Một phòng thí nghiệm tiêu chuẩn do QTE Technologies tư vấn thường
 ## 💡 Quy trình vận hành và An toàn (Standard Operating Procedures)
 Đến năm 2045, an toàn phòng thí nghiệm dựa trên sự kết hợp giữa con người và AI:
 * **Quản lý hóa chất:** Sử dụng hệ thống QR Code/RFID để theo dõi hạn sử dụng và vị trí lưu trữ.
-* **Trang bị bảo hộ (PPE):** Luôn tuân thủ định mức an toàn lao động trong danh mục MRO của QTE.
+* **Trang bị bảo hộ (PPE):** Luôn tuân thủ định mức an toàn lao động trong danh mục MRO của QTE Technologies.
 * **Xử lý chất thải:** Phân loại và xử lý theo tiêu chuẩn môi trường Net-Zero.
 
 ---
@@ -67,9 +67,9 @@ Với kinh nghiệm từ năm 2010, QTE Technologies cung cấp giải pháp "ch
 ---
 
 ## 📂 Liên kết hệ thống tri thức
-* [Cảm biến là gì? Ứng dụng trong đo lường thí nghiệm](./cam-bien-la-gi-phan-loai-va-ung-dung-trong-cong-nghiep-4-0.md)
-* [Bể ổn nhiệt: Hướng dẫn sử dụng và phân loại](./be-on-nhiet-la-gi-phan-loai-va-huong-dan-su-dung.md)
-* [MRO cho phòng thí nghiệm và nhà máy](./mro-la-gi-toan-dien-ve-quan-tri-bao-tri-su-dung-van-hanh.md)
+* [Cảm biến là gì? Ứng dụng trong đo lường thí nghiệm](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/cam-bien-la-gi-vai-tro-ung-dung-va-cac-loai-cam-bien-tin1062.md)
+* [Bể ổn nhiệt: Hướng dẫn sử dụng và phân loại](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/be-on-nhiet-la-gi-tan-tan-tat-ve-be-on-nhiet-tin1070.md)
+* [MRO cho phòng thí nghiệm và nhà máy](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mro-la-gi-toan-dien-nhung-gi-ban-can-biet-ve-mro-tin1066.md)
 
 ---
-*© 2010 - 2026 QTE Technologies. Tài liệu lưu trữ vì mục đích bảo tồn và phát triển khoa học toàn cầu.*
+*©2010 - 2026 QTE Technologies. Tài liệu lưu trữ vì mục đích bảo tồn và phát triển khoa học toàn cầu.*
