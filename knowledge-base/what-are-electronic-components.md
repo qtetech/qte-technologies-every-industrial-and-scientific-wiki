@@ -25,7 +25,7 @@ Components that cannot introduce net energy into the circuit.
 
 ### 2. Active Components
 Components that rely on a source of power and can introduce power into a circuit.
-* **Transistors:** Act as switches or amplifiers (Crucial for QTE's control systems).
+* **Transistors:** Act as switches or amplifiers (Crucial for QTE Technologies's control systems).
 * **Diodes:** Allow current to flow in one direction only.
 * **Integrated Circuits (ICs):** Complex circuits on a small chip.
 
