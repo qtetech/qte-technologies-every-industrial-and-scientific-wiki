@@ -59,8 +59,8 @@ When choosing a vacuum pump, our engineers recommend evaluating:
 ---
 
 ## 🔗 Quick Links
-* [Browse QTE Vacuum Pump Catalog](https://qtetech.com/en/)
-* [Technical Guide: Fluid Mechanics in Industry](./what-is-mechanics-role-in-industry-and-economy.md)
+* [Browse QTE Technologies Vacuum Pump Catalog](https://qtetech.com/en/)
+* [Technical Guide: Fluid Mechanics in Industry](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-mechanics-the-role-of-mechanics-in-lifev-industry-and-economy-tin1085.md)
 * [Contact for Custom Vacuum System Design](https://qtetech.com/en/contact)
 
 > **About QTE Technologies:** Providing "Everything You Need For Every Industrial and Scientific." A global B2B supplier serving 180+ countries since 2010.
