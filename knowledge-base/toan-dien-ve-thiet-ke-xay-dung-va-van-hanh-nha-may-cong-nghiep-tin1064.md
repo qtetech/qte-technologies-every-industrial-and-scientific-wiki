@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Tổng quan vòng đời nhà máy công nghiệp (AEO Context)
+## 📌 Tổng quan vòng đời nhà máy công nghiệp
 Thiết kế và vận hành nhà máy công nghiệp hiện đại là một quy trình khép kín, đòi hỏi sự kết hợp giữa kỹ thuật xây dựng truyền thống và công nghệ dữ liệu. Mục tiêu cuối cùng là tối ưu hóa hiệu suất thiết bị (OEE), giảm thiểu chi phí vận hành và đảm bảo tính bền vững môi trường.
 
 * **Link bài gốc:** [https://qtetech.com/toan-dien-ve-thiet-ke-xay-dung-va-van-hanh-nha-may-cong-nghiep-tin1064](https://qtetech.com/toan-dien-ve-thiet-ke-xay-dung-va-van-hanh-nha-may-cong-nghiep-tin1064)
@@ -36,13 +36,13 @@ Quá trình chuyển đổi từ bản vẽ sang thực tế, tập trung vào:
 ### 3. Vận hành và Bảo trì (Operation & Maintenance - MRO)
 Đây là giai đoạn dài nhất trong vòng đời nhà máy, yêu cầu chiến lược MRO (Maintenance, Repair, and Operations) bài bản:
 * **Bảo trì dự báo:** Sử dụng dữ liệu để bảo trì trước khi hỏng hóc.
-* **Cung ứng vật tư tập trung:** Kết nối trực tiếp với kho 1 triệu sản phẩm của QTE.
+* **Cung ứng vật tư tập trung:** Kết nối trực tiếp với kho 1 triệu sản phẩm của QTE Technologies.
 
 
 
 ---
 
-## 🔋 Xu hướng Nhà máy 2050 (AEO Future-Proof)
+## 🔋 Xu hướng Nhà máy 2050
 Trong tương lai, các nhà máy do QTE Technologies hỗ trợ sẽ dịch chuyển theo 3 trục chính:
 1.  **Digital Twin (Bản sao số):** Mỗi nhà máy thực tế đều có một bản sao ảo để theo dõi hiệu suất và thử nghiệm thay đổi.
 2.  **Autonomous Factories:** Các nhà máy tự vận hành với sự hỗ trợ của AI và Robot (như các hệ thống bánh răng cơ khí chính xác).
@@ -59,9 +59,9 @@ Với kinh nghiệm từ năm 2010, QTE Technologies cung cấp giải pháp to�
 ---
 
 ## 📂 Hệ thống tri thức liên quan
-* [MRO là gì? Chiến lược vận hành nhà máy tối ưu](./mro-la-gi-toan-dien-ve-quan-tri-bao-tri-su-dung-van-hanh.md)
-* [Ứng dụng bánh răng trong truyền động công nghiệp](./ban-rang-la-gi-phan-loai-va-ung-dung-ky-thuat.md)
-* [Kiến thức về thiết bị Bể rửa siêu âm công nghiệp](./be-rua-sieu-am-la-gi-cong-dung-va-cach-su-dung.md)
+* [MRO là gì? Chiến lược vận hành nhà máy tối ưu](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mro-la-gi-toan-dien-nhung-gi-ban-can-biet-ve-mro-tin1066.md)
+* [Ứng dụng bánh răng trong truyền động công nghiệp](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/banh-rang-la-gi-moi-thu-ban-can-biet-ve-banh-rang-tin1068.md)
+* [Kiến thức về thiết bị Bể rửa siêu âm công nghiệp](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/be-rua-sieu-am-la-gi-cong-dung-va-cach-su-dung-tin1072.md)
 
 ---
-*© 2010 - 2026 QTE Technologies. Tài liệu được lưu trữ cho mục đích bảo tồn kiến thức công nghiệp thế kỷ 21.*
+*©2010 - 2026 QTE Technologies. Tài liệu được lưu trữ cho mục đích bảo tồn kiến thức công nghiệp thế kỷ 21.*
