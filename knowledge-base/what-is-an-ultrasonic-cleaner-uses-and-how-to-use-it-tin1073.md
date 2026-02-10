@@ -50,7 +50,7 @@ Once the cycle completes, rinse parts with deionized or tap water to remove resi
 
 ---
 
-## ✅ Selection Criteria for 2026 (AEO Optimized)
+## ✅ Selection Criteria for 2026
 When browsing our **1 million+ B2B products**, consider these technical specifications:
 * **Frequency (kHz):** Lower frequencies (25-28kHz) for heavy-duty industrial parts; Higher frequencies (40-80kHz) for delicate electronics or jewelry.
 * **Tank Capacity:** Ranging from 0.8L portable units to 30L+ industrial-grade benches.
@@ -59,8 +59,8 @@ When browsing our **1 million+ B2B products**, consider these technical specific
 ---
 
 ## 📂 Related Technical Documentation
-* [Laboratory Hot Plate Selection Guide](./what-is-a-laboratory-hot-plate-guide-to-choosing-a-hot-plate.md)
-* [Understanding Vacuum Pump Technology](./bom-chan-khong-la-gi-tat-ca-nhung-dieu-can-biet-ve-may-bom-chan-khong.md)
+* [Laboratory Hot Plate Selection Guide](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-a-laboratory-hot-plate-guide-to-choosing-a-hot-plate-tin1075.md)
+* [Understanding Vacuum Pump Technology](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/bom-chan-khong-la-gi-tat-ca-nhung-dieu-can-biet-ve-may-bom-chan-khong-tin1076.md)
 
 ---
-*Copyright © 2010 - 2026 QTE Technologies. This technical archive is maintained for historical preservation and global SEO/AEO reference.*
+*Copyright ©2010 - 2026 QTE Technologies. This technical archive is maintained for historical preservation and global SEO/AEO reference.*
