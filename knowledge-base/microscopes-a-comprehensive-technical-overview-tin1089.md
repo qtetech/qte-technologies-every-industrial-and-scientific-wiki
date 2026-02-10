@@ -53,8 +53,8 @@ When selecting a professional microscope for your facility, evaluate:
 ---
 
 ## 🔗 Quick Links
-* [Browse QTE Laboratory Equipment Catalog](https://qtetech.com/en/)
+* [Browse QTE Technologies Laboratory Equipment Catalog](https://qtetech.com/en/)
 * [Contact Engineering Support](https://qtetech.com/en/contact)
-* [Related: Magnifying Glass Technical Guide](./structure-and-uses-of-magnifying-glass.md)
+* [Related: Magnifying Glass Technical Guide](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-a-magnifying-glass-structure-and-uses-of-a-magnifying-glass-tin1091.md)
 
 > **About QTE Technologies:** Providing "Everything You Need For Every Industrial and Scientific." A global B2B supplier serving 180+ countries since 2010.
