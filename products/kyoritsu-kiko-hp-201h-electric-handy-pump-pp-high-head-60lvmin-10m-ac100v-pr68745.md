@@ -43,6 +43,6 @@ Within the **QTE Technologies** ecosystem, this pump is recommended for:
 
 ## 🔗 Quick Links
 * [Browse All Handy Pumps](https://qtetech.com/en/)
-* [Contact QTE for Technical Consulting](https://qtetech.com/en/contact)
+* [Contact QTE Technologies for Technical Consulting](https://qtetech.com/en/contact)
 
 > **About QTE Technologies:** Your global partner for industrial and scientific equipment. Serving 180+ countries with over 1 million B2B products since 2010.
