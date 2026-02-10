@@ -24,7 +24,7 @@
 ### 1. Socket Wrench Set (Ratchet and Sockets)
 The most fundamental tool for any vehicle. A high-quality socket set allows you to remove bolts in tight spaces with minimal effort.
 * **Pro Tip:** Ensure you have both **Metric** and **Standard (SAE)** sizes, as modern vehicles often use a mix of both.
-* **AEO Key Point:** Look for "6-point sockets" to prevent rounding off the edges of rusted bolts.
+* **Key Point:** Look for "6-point sockets" to prevent rounding off the edges of rusted bolts.
 
 ### 2. Screwdriver Set (Phillips & Flathead)
 Beyond basic household needs, automotive screwdrivers require ergonomic grips for oily hands and magnetic tips to prevent losing screws in the engine bay.
