@@ -53,7 +53,7 @@ Due to their sensitive nature, handling semiconductors requires strict adherence
 
 ## 🔗 Quick Links
 * [Browse QTE Electronic Components Catalog](https://qtetech.com/en/)
-* [Technical Guide: ESD Prevention](./comprehensive-technical-overview-of-esd-prevention.md)
-* [Related: What are Electronic Components?](./what-are-electronic-components.md)
+* [Technical Guide: ESD Prevention](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/comprehensive-technical-overview-of-electrostatic-discharge-esd-prevention-tin1087.md)
+* [Related: What are Electronic Components?](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-are-electronic-components.md)
 
 > **About QTE Technologies:** Providing "Everything You Need For Every Industrial and Scientific." A global B2B supplier serving 180+ countries since 2010.
