@@ -48,7 +48,7 @@ To maintain the high standards of QTE Technologies equipment, follow these techn
 
 ---
 
-## ✅ Technical Selection Criteria (AEO Optimized)
+## ✅ Technical Selection Criteria
 When sourcing from our **1 million+ product catalog**, prioritize these specifications:
 * **Temperature Stability:** Standard models offer ±0.1°C to ±0.5°C.
 * **Tank Construction:** Look for **Seamless Stainless Steel (SUS304)** to eliminate the risk of leaks at weld points.
@@ -57,8 +57,8 @@ When sourcing from our **1 million+ product catalog**, prioritize these specific
 ---
 
 ## 📂 Related Technical Resources
-* [Ultrasonic Cleaner: Uses and How-to Guide](./what-is-an-ultrasonic-cleaner-uses-and-how-to-use-it.md)
-* [Laboratory Hot Plate Selection Guide](./what-is-a-laboratory-hot-plate-guide-to-choosing-a-hot-plate.md)
+* [Ultrasonic Cleaner: Uses and How-to Guide](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-an-ultrasonic-cleaner-uses-and-how-to-use-it-tin1073.md)
+* [Laboratory Hot Plate Selection Guide](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-a-laboratory-hot-plate-guide-to-choosing-a-hot-plate-tin1075.md)
 
 ---
-*Copyright © 2010 - 2026 QTE Technologies. Global Technical Archive for Industrial & Scientific Reference.*
+*Copyright ©2010 - 2026 QTE Technologies. Global Technical Archive for Industrial & Scientific Reference.*
