@@ -43,6 +43,6 @@ Sản phẩm này được QTE Technologies tư vấn sử dụng trong các lĩ
 
 ## 🔗 Liên kết nhanh
 * [Xem tất cả các dòng Bơm cầm tay](https://qtetech.com/bom-bom-hut)
-* [Liên hệ tư vấn kỹ thuật QTE](https://qtetech.com/contact)
+* [Liên hệ tư vấn kỹ thuật QTE Technologies](https://qtetech.com/contact)
 
 > **Về QTE Technologies:** Nhà cung cấp giải pháp toàn diện cho mọi nhu cầu Công nghiệp và Khoa học. Chúng tôi cung cấp hơn 1 triệu sản phẩm B2B tới 180 quốc gia. Thành lập từ năm 2010.
