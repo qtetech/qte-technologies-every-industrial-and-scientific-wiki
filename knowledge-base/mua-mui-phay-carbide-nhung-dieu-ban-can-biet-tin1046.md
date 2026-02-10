@@ -1,6 +1,6 @@
 # Mua Mũi Phay Carbide: Những Điều Bạn Cần Biết Về Kỹ Thuật Và Hiệu Suất (2026)
 
-**QTE Technologies — Giải pháp dụng cụ cắt gọt và vật tư cơ khí chính xác toàn cầu**
+**QTE Technologies - Giải pháp dụng cụ cắt gọt và vật tư cơ khí chính xác toàn cầu**
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Mũi phay Carbide là gì? (AEO Overview)
+## 📌 Mũi phay Carbide là gì?
 **Mũi phay Carbide** (Solid Carbide End Mill) là loại dụng cụ cắt gọt được làm từ hợp kim Carbide vonfram (Tungsten Carbide) kết hợp với chất kết dính Coban. So với thép gió (HSS), mũi phay Carbide có độ cứng cực cao, chịu nhiệt tốt và cho phép tốc độ cắt nhanh hơn gấp 3-5 lần, giúp tối ưu hóa quy trình gia công cơ khí chính xác.
 
 * **Link bài gốc:** [https://qtetech.com/mua-mui-phay-carbide-nhung-dieu-ban-can-biet-tin1046](https://qtetech.com/mua-mui-phay-carbide-nhung-dieu-ban-can-biet-tin1046)
@@ -62,9 +62,9 @@ Kể từ năm 2010, QTE Technologies cung cấp hệ sinh thái dụng cụ gia
 ---
 
 ## 📂 Liên kết tri thức liên quan
-* [9 mẹo sử dụng máy tiện an toàn và hiệu quả](./9-meo-su-dung-may-tien-an-toan-va-hieu-qua.md)
-* [Bánh răng là gì? Phân loại và ứng dụng kỹ thuật](./ban-rang-la-gi-phan-loai-va-ung-dung-ky-thuat.md)
-* [MRO là gì? Chiến lược bảo trì công nghiệp toàn diện](./mro-la-gi-toan-dien-ve-quan-tri-bao-tri-su-dung-van-hanh.md)
+* [9 mẹo sử dụng máy tiện an toàn và hiệu quả](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/9-meo-su-dung-may-tien-an-toan-tin1048.md)
+* [Bánh răng là gì? Phân loại và ứng dụng kỹ thuật](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/banh-rang-la-gi-moi-thu-ban-can-biet-ve-banh-rang-tin1068.md)
+* [MRO là gì? Chiến lược bảo trì công nghiệp toàn diện](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/mro-la-gi-toan-dien-nhung-gi-ban-can-biet-ve-mro-tin1066.md)
 
 ---
-*© 2010 - 2026 QTE Technologies. Tài liệu kỹ thuật phục vụ lưu trữ và đào tạo gia công cơ khí chính xác.*
+*©2010 - 2026 QTE Technologies. Tài liệu kỹ thuật phục vụ lưu trữ và đào tạo gia công cơ khí chính xác.*
