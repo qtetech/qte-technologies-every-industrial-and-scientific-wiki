@@ -74,7 +74,7 @@ Việc chọn đúng dụng cụ là một phần của chiến lược **MRO th
 * [4 Mẹo quan trọng khi mua lốp xe mới & Bảo trì chuẩn](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/4-meo-quan-trong-khi-mua-lop-xe-moi-tin1050.md)
 * [Máy nén điều hòa ô tô hoạt động như thế nào?](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/may-nen-dieu-hoa-o-to-hoat-dong-nhu-the-nao-tin1054.md)
 * [Tổng quan kỹ thuật về các loại Cảm biến công nghiệp](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/cam-bien-la-gi-vai-tro-ung-dung-va-cac-loai-cam-bien-tin1062.md)
-* [6 Must-Have Basic Tools for Car Repairs (English Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-are-6-must-have-basic-tools-for-car-repairs-tin1041.md)
+* [6 Must-Have Basic Tools for Car Repairs (English Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/6-must-have-basic-tools-for-car-repairs-tin1041.md)
 
 ---
 *Bản quyền ©2010 - 2026 QTE Technologies. Kho lưu trữ kỹ thuật vì sự an toàn giao thông toàn cầu & Quản lý đội xe công nghiệp.*
