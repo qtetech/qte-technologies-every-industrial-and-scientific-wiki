@@ -53,8 +53,8 @@ To ensure optimal performance and ROI, consider the following parameters:
 ---
 
 ## 🔗 Quick Links
-* [Bản Tiếng Việt (Vietnamese Version)](./can-dien-tu-la-gi-toan-tap-kien-thuc-ky-thuat.md)
-* [Browse QTE Measuring Equipment Catalog](https://qtetech.com/en/)
+* [Bản Tiếng Việt (Vietnamese Version)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/can-dien-tu-la-gi-toan-tap-kien-thuc-ky-thuat-ve-can-dien-tu-tin1078.md)
+* [Browse QTE Technologies Measuring Equipment Catalog](https://qtetech.com/en/)
 * [Contact Engineering Support for Weighing Solutions](https://qtetech.com/en/contact)
 
 > **About QTE Technologies:** Providing "Everything You Need For Every Industrial and Scientific." A trusted B2B partner serving 180+ countries since 2010.
