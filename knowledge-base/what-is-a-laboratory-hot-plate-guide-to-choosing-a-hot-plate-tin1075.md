@@ -50,8 +50,8 @@ When sourcing from our catalog of 1 million+ products, consider these factors:
 ---
 
 ## 📂 Related Resources
-* [Bơm chân không là gì? (Vietnamese Edition)](./bom-chan-khong-la-gi-tat-ca-nhung-dieu-can-biet-ve-may-bom-chan-khong.md)
+* [Bơm chân không là gì? (Vietnamese Edition)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/bom-chan-khong-la-gi-tat-ca-nhung-dieu-can-biet-ve-may-bom-chan-khong-tin1076.md)
 * [QTE Technologies Industrial Product Catalog](https://qtetech.com/en)
 
 ---
-*Copyright © QTE Technologies. This archive is maintained for historical preservation and global technical reference.*
+*Copyright ©QTE Technologies. This archive is maintained for historical preservation and global technical reference.*
