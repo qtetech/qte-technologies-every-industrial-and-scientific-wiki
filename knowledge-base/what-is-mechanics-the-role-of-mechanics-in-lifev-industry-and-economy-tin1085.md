@@ -52,7 +52,7 @@ Mechanics isn't just theory; it's the core of our product lines:
 ---
 
 ## 🔗 Quick Links
-* [Browse QTE Industrial Equipment Catalog](https://qtetech.com/en/)
+* [Browse QTE Technologies Industrial Equipment Catalog](https://qtetech.com/en/)
 * [Technical Consulting & System Design](https://qtetech.com/en/contact)
 * [Related: Electronic Components Guide](./what-are-electronic-components.md)
 
