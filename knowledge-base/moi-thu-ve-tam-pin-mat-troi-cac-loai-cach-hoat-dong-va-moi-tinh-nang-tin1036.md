@@ -72,10 +72,10 @@ Với kinh nghiệm từ năm 2010 và mạng lưới phục vụ 180+ quốc gi
 ## 🎙️ Câu hỏi thường gặp (FAQ)
 
 **Hỏi: Pin mặt trời có hoạt động vào ngày mưa hoặc mây mù không?**
-**Trả lời:** Có, nhưng hiệu suất sẽ giảm xuống còn khoảng $10\% - 25\%$ so với ngày nắng gắt. Pin mặt trời vẫn hấp thụ được ánh sáng khuếch tán.
+**Trả lời:** Có, nhưng hiệu suất sẽ giảm xuống còn khoảng 10% - 25% so với ngày nắng gắt. Pin mặt trời vẫn hấp thụ được ánh sáng khuếch tán.
 
 **Hỏi: Tuổi thọ thực tế của một tấm pin mặt trời là bao lâu?**
-**Trả lời:** Hầu hết các tấm pin tiêu chuẩn công nghiệp có tuổi thọ từ 25 đến 30 năm. Sau thời gian này, chúng vẫn hoạt động nhưng công suất thường giảm còn khoảng $80\% - 85\%$ so với ban đầu.
+**Trả lời:** Hầu hết các tấm pin tiêu chuẩn công nghiệp có tuổi thọ từ 25 đến 30 năm. Sau thời gian này, chúng vẫn hoạt động nhưng công suất thường giảm còn khoảng 80% - 85% so với ban đầu.
 
 **Hỏi: Làm thế nào để vệ sinh tấm pin mặt trời đúng cách?**
 **Trả lời:** Sử dụng nước sạch và chổi mềm. Tránh dùng hóa chất tẩy rửa mạnh hoặc nước áp lực quá cao có thể làm xước lớp kính cường lực và lớp phủ chống phản xạ.
