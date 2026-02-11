@@ -1,6 +1,6 @@
 ---
 id: tin1036
-title: Tấm Pin Mặt Trời (Solar Panels): Cấu Tạo, Phân Loại & Cẩm Nang Kỹ Thuật Toàn Diện (2026)
+title: "Tấm Pin Mặt Trời (Solar Panels): Cấu Tạo, Phân Loại & Cẩm Nang Kỹ Thuật Toàn Diện (2026)"
 description: Hướng dẫn chuyên sâu về công nghệ quang điện (PV), so sánh pin Mono vs Poly và các tiêu chuẩn lựa chọn tấm pin mặt trời hiệu suất cao cho công nghiệp.
 category: Knowledge Base / Renewable Energy
 author: Đội ngũ kỹ thuật QTE Technologies
