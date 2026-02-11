@@ -57,7 +57,7 @@ Modern industrial solar projects now demand features that go beyond basic energy
 * **PERC Technology (Passivated Emitter and Rear Cell):** An additional layer on the back of the cell that reflects unabsorbed light back into the cell, increasing total absorption.
 * **Half-Cut Cell Design:** By cutting the cells in half, the current flow is reduced, which lowers resistive losses and improves performance in shaded conditions.
 * **Bifacial Modules:** These panels capture light from both sides, increasing energy yield by up to $30\%$ depending on the surface albedo.
-* **Temperature Coefficient:** A critical metric for hot climates. High-end panels at QTE feature a low coefficient (e.g., $-0.3\%/^\circ C$), ensuring minimal efficiency loss as temperatures rise.
+* **Temperature Coefficient:** A critical metric for hot climates. High-end panels at QTE Technologies feature a low coefficient (e.g., $-0.3\%/^\circ C$), ensuring minimal efficiency loss as temperatures rise.
 
 ---
 
