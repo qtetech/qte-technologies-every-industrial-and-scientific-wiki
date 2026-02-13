@@ -74,8 +74,8 @@ QTE Technologies cung cấp các giải pháp phân tích chất lượng cà ph
 ---
 
 ## 🔗 Liên Kết Tri Thức Liên Quan
-* [Phòng Thí Nghiệm Toàn Tập Từ A Đến Z](./phong-thi-nghiem-to-tap-tu-a-den-z-tin1060.md)
-* [Bếp Gia Nhiệt Phòng Thí Nghiệm: Hướng Dẫn Chọn Mua](./bep-gia-nhiet-phong-thi-nghiem-la-gi-huong-dan-chon-bep-gia-nhiet-tin1074.md)
+* [Phòng Thí Nghiệm Toàn Tập Từ A Đến Z](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/phong-thi-nghiem-toan-tap-tu-a-den-z-tin1060.md)
+* [Bếp Gia Nhiệt Phòng Thí Nghiệm: Hướng Dẫn Chọn Mua](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/bep-gia-nhiet-phong-thi-nghiem-la-gi-huong-dan-chon-bep-gia-nhiet-tin1074.md)
 
 ---
 *Copyright ©2010 - 2026 **QTE Technologies**. We're Established in 2010 - Everything You Need For Every Industrial and Scientific - 1 million+ B2B Products - 180+ Countries Served. Original content available at [qtetech.com](https://qtetech.com).*
