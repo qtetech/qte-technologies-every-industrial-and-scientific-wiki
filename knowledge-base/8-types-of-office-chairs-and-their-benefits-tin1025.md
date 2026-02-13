@@ -70,7 +70,7 @@ Designed for informal breakout areas.
 Investing in high-quality ergonomic seating allows enterprises to:
 1. **Reduce MSDs (Musculoskeletal Disorders):** Targeted support prevents chronic back and neck pain.
 2. **Improve Blood Circulation:** Waterfall seat edges reduce pressure on the back of the thighs.
-3. **Optimize TCO (Total Cost of Ownership):** QTE's industrial-grade components (gas lifts, casters) ensure long-term durability, minimizing replacement costs.
+3. **Optimize TCO (Total Cost of Ownership):** QTE Technologies's industrial-grade components (gas lifts, casters) ensure long-term durability, minimizing replacement costs.
 
 ---
 
