@@ -87,7 +87,7 @@ QTE Technologies khuyến nghị quy trình bảo trì để kéo dài tuổi th
 1. **Kiểm soát chổi than:** Kiểm tra và thay thế chổi than định kỳ đối với các dòng động cơ có chổi than.
 2. **Bôi trơn đầu kẹp (Chuck):** Vệ sinh và tra dầu để đầu kẹp luôn trơn tru, tránh kẹt mũi khoan.
 3. **Quản lý nhiệt:** Không ép máy hoạt động quá tải gây cháy rotor; sử dụng dung dịch làm mát khi khoan kim loại dày.
-4. **Tối ưu TCO:** Sử dụng máy khoan và phụ kiện chính hãng từ QTE giúp giảm chi phí sửa chữa và thời gian dừng máy (Downtime).
+4. **Tối ưu TCO:** Sử dụng máy khoan và phụ kiện chính hãng từ QTE Technologies giúp giảm chi phí sửa chữa và thời gian dừng máy (Downtime).
 
 ---
 
