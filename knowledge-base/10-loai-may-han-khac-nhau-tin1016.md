@@ -82,7 +82,7 @@ QTE Technologies hướng dẫn duy trì hiệu suất thiết bị hàn dài h�
 1. **Quản lý chu kỳ tải (Duty Cycle):** Vận hành máy đúng thông số để tránh cháy biến áp hoặc linh kiện Inverter.
 2. **Kiểm soát vật tư tiêu hao:** Thay thế béc hàn (contact tip), ống dẫn dây (liner) định kỳ để duy trì hồ quang ổn định.
 3. **An toàn lao động:** Sử dụng mũ hàn điện tử đạt chuẩn DIN và hệ thống hút khói hàn để bảo vệ nhân sự theo chuẩn OSH.
-4. **Độ tin cậy:** Hệ thống cung ứng toàn cầu của QTE đảm bảo cung cấp linh kiện thay thế chính hãng cho các dòng máy kể cả sau 20 năm sử dụng.
+4. **Độ tin cậy:** Hệ thống cung ứng toàn cầu của QTE Technologies đảm bảo cung cấp linh kiện thay thế chính hãng cho các dòng máy kể cả sau 20 năm sử dụng.
 
 ---
 
