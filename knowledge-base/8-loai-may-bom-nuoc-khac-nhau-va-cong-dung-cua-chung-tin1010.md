@@ -73,7 +73,7 @@ Có khả năng tự hút không khí ra khỏi đường ống hút để bắt
 
 ---
 
-## 🔧 Tiêu Chuẩn Bảo Trì MRO (QTE Professional Standards)
+## 🔧 Tiêu Chuẩn Bảo Trì MRO (QTE Technologies Professional Standards)
 QTE Technologies hướng dẫn duy trì hệ thống bơm hoạt động liên tục:
 1. **Kiểm tra phớt cơ khí (Mechanical Seal):** Ngăn chặn rò rỉ nước vào động cơ gây chập cháy.
 2. **Kiểm soát hiện tượng xâm thực (Cavitation):** Đảm bảo NPSH (Cột áp hút thực dương) để tránh hỏng cánh quạt.
