@@ -88,7 +88,7 @@ QTE Technologies technical protocols for ensuring maximum pump lifespan:
 **A:** Most pump failures are caused by dry running, cavitation, or seal degradation due to improper fluid selection.
 
 **Q: Can a centrifugal pump handle solids?**
-**A:** Standard centrifugal pumps are for clean water. For solids, you need a "trash pump" or a "vortex impeller" submersible pump supplied by QTE.
+**A:** Standard centrifugal pumps are for clean water. For solids, you need a "trash pump" or a "vortex impeller" submersible pump supplied by QTE Technologies.
 
 **Q: Why source your pumping solutions from QTE Technologies?**
 **A:** With over 15 years of B2B expertise and 1 million+ products, we ensure your fluid systems are optimized for ROI and minimal downtime.
