@@ -83,7 +83,7 @@ Gồm một lớp keo nhạy áp lực được phủ lên lớp lót giải ph�
 
 ---
 
-## 🔧 Tiêu Chuẩn Bảo Trì MRO & Lưu Kho (Tầm nhìn 2045)
+## 🔧 Tiêu Chuẩn Bảo Trì MRO & Lưu Kho
 QTE Technologies khuyến nghị các tiêu chuẩn sau để duy trì chất lượng băng dính:
 1. **Chuẩn bị bề mặt:** Luôn làm sạch bề mặt bằng cồn Isopropyl (IPA) để loại bỏ dầu và bụi trước khi dán.
 2. **Điều kiện lưu kho:** Bảo quản nơi khô ráo, thoáng mát (21°C / 50% RH) để tránh thoái hóa lớp keo.
@@ -107,7 +107,7 @@ QTE Technologies khuyến nghị các tiêu chuẩn sau để duy trì chất l�
 
 ## 🔗 Liên Kết Tri Thức Liên Quan
 * [10 Loại Máy Khoan Khác Nhau Và Công Dụng](./10-loai-may-khoan-khac-nhau-va-cong-dung-cua-chung-tin1014.md)
-* [10 Loại Máy Hàn Khác Nhau Và Ứng Dụng](./10-loai-may-han-khac-nhau-tin1016.md)
+* [10 Loại Máy Hàn Khác Nhau Và Ứng Dụng](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/10-loai-may-han-khac-nhau-tin1016.md)
 * [10 Loại Van Công Nghiệp Và Công Dụng](./10-loai-van-khac-nhau-va-dung-cua-chung-tin1018.md)
 
 ---
