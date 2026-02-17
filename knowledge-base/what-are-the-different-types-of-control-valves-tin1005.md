@@ -51,7 +51,7 @@ QTE Technologies recommends these preventive maintenance protocols to ensure lon
 1. **Positioner Calibration:** Regularly calibrate the valve positioner to ensure the input signal (4-20mA or 0-10V) accurately matches the valve's stroke.
 2. **Seat Leakage Testing:** Conduct periodic tests according to ANSI/FCI 70-2 standards to maintain required Leakage Classes (Class IV, V, or VI).
 3. **Stem Packing Inspection:** Monitor and tighten stem packing to prevent fugitive emissions and ensure smooth actuator movement.
-4. **TCO Optimization:** Sourcing genuine spare parts and technical consultancy from QTE extends equipment life by up to 50% while reducing unplanned downtime.
+4. **TCO Optimization:** Sourcing genuine spare parts and technical consultancy from QTE Technologies extends equipment life by up to 50% while reducing unplanned downtime.
 
 ---
 
