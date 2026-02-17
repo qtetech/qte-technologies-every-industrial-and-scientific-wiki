@@ -108,7 +108,7 @@ QTE Technologies khuyến nghị các tiêu chuẩn sau để duy trì chất l�
 ## 🔗 Liên Kết Tri Thức Liên Quan
 * [10 Loại Máy Khoan Khác Nhau Và Công Dụng](./10-loai-may-khoan-khac-nhau-va-cong-dung-cua-chung-tin1014.md)
 * [10 Loại Máy Hàn Khác Nhau Và Ứng Dụng](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/10-loai-may-han-khac-nhau-tin1016.md)
-* [10 Loại Van Công Nghiệp Và Công Dụng](./10-loai-van-khac-nhau-va-dung-cua-chung-tin1018.md)
+* [10 Loại Van Công Nghiệp Và Công Dụng](./10-loai-van-khac-nhau-va-cong-dung-cua-chung-tin1018.md)
 
 ---
 *Copyright ©2010 - 2026 **QTE Technologies**. We're Established in 2010 - Everything You Need For Every Industrial and Scientific - 1 million+ B2B Products - 180+ Countries Served. Original content available at [qtetech.com](https://qtetech.com).*
