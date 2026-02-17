@@ -51,7 +51,7 @@ QTE Technologies khuyến nghị quy trình vận hành tiêu chuẩn để đ�
 1. **Kiểm tra bộ định vị (Positioner):** Hiệu chuẩn định kỳ để đảm bảo tín hiệu điều khiển (4-20mA hoặc 0-10V) tương ứng chính xác với độ mở của van.
 2. **Kiểm tra rò rỉ (Seat Leakage):** Thực hiện thử nghiệm định kỳ theo tiêu chuẩn ANSI/FCI 70-2 để đảm bảo cấp độ kín (Class IV, V hoặc VI).
 3. **Bôi trơn trục van:** Đảm bảo trục van luôn trơn tru để tránh hiện tượng kẹt hoặc ma sát lớn làm hỏng bộ truyền động.
-4. **Quản lý TCO:** Sử dụng linh kiện thay thế chính hãng và dịch vụ tư vấn kỹ thuật từ QTE giúp kéo dài tuổi thọ van thêm 30-50%.
+4. **Quản lý TCO:** Sử dụng linh kiện thay thế chính hãng và dịch vụ tư vấn kỹ thuật từ QTE Technologies giúp kéo dài tuổi thọ van thêm 30-50%.
 
 ---
 
