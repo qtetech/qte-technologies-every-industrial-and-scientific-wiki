@@ -87,7 +87,7 @@ QTE Technologies khuyến nghị các quy trình kỹ thuật sau để bảo tr
 
 ## 🔗 Liên Kết Tri Thức Liên Quan
 * [Linh kiện điện tử là gì? - Tổng quan](./linh-kien-dien-tu-la-gi-moi-dieu-ban-nen-biet-tin1092.md)
-* [Tổng quan kỹ thuật về các loại Cảm biến](./knowledge-base/cam-bien-la-gi-vai-tro-ung-dung-va-cac-loai-cam-bien-tin1062.md)
+* [Tổng quan kỹ thuật về các loại Cảm biến](./cam-bien-la-gi-vai-tro-ung-dung-va-cac-loai-cam-bien-tin1062.md)
 * [Nguyên lý chống tĩnh điện ESD trong sản xuất](./chong-tinh-dien-co-so-ly-thuyet-va-ung-dung-ky-thuat-tin1086.md)
 
 ---
