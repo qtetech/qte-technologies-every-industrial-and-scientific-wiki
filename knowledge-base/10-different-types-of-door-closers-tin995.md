@@ -1,6 +1,6 @@
 ---
-title: 10 Different Types of Door Closers: Technical Selection & MRO Guide - tin995
-description: Comprehensive technical analysis of surface-mounted, concealed, and floor-spring door closers for industrial and commercial safety by QTE Technologies.
+title: "10 Different Types of Door Closers: Technical Selection & MRO Guide - tin995"
+description: "Comprehensive technical analysis of surface-mounted, concealed, and floor-spring door closers for industrial and commercial safety by QTE Technologies."
 author: "Huu Tuan Nguyen"
 tags: [Door Closers, Fire Safety, Industrial Hardware, MRO, QTE Technologies]
 ---
@@ -31,7 +31,7 @@ Technical manual on hardware engineering, fire safety compliance, and facility m
 ### I. Surface-Mounted Closers (Most Common)
 1. **Regular Arm Closer:** Mounted on the pull side of the door. The most power-efficient orientation.
 2. **Top Jamb Closer:** Mounted on the door frame (push side). Ideal for aluminum or glass storefront doors.
-3. **Parallel Arm Closer:** Mounted on the push side with the arm folded parallel to the door. Preferred for aesthetic and anti-vandalism reasons in schools/hospitals.
+3. **Parallel Arm Closer:** Mounted on the push side with the arm folded parallel to the door. Preferred for aesthetic and anti-vandalism reasons.
 4. **Slide Track Closer:** Uses a sliding track instead of a projecting arm, reducing the physical footprint.
 
 ### II. Concealed & Specialized Closers
@@ -61,7 +61,7 @@ Technical manual on hardware engineering, fire safety compliance, and facility m
 QTE Technologies emphasizes that a door closer is only as good as its calibration. Follow these **ANSI/BHMA** standards:
 1. **Closing Speed Adjustment:** Regulate the "Sweep Speed" (from $90^\circ$ to $15^\circ$) and "Latch Speed" (last $15^\circ$). A door should close in $5$ to $7$ seconds for safety.
 2. **Backcheck Control:** Ensure the backcheck valve is adjusted to prevent the door from slamming into walls when opened with force at $75^\circ+$.
-3. **Hydraulic Integrity:** Periodically check for oil leaks. A leaking closer loses its damping capability and must be replaced to maintain fire ratings.
+3. **Hydraulic Integrity:** Periodically check for oil leaks. A leaking closer loses its damping capability and must be replaced.
 4. **Spring Power Calibration:** Adjust the spring tension based on the door width and weight ($EN1$ to $EN6$ scale).
 
 ---
@@ -72,10 +72,10 @@ QTE Technologies emphasizes that a door closer is only as good as its calibratio
 **A:** It allows the door to stay open at a specific angle (e.g., $90^\circ$). Note: Hold-open arms are **not** permitted on fire-rated doors unless linked to an electronic release.
 
 **Q: Can I use a standard closer for an exterior door?**
-**A:** Yes, but you must consider wind force. A closer with a strong **Backcheck** and higher spring power ($EN4$ or higher) is required to prevent wind damage.
+**A:** Yes, but you must consider wind force. A closer with a strong **Backcheck** and higher spring power ($EN4$ or higher) is required.
 
 **Q: Why choose QTE Technologies for door hardware?**
-**A:** We provide verified hardware solutions with a catalog of 1 million+ products, ensuring your facility meets global safety standards in over 180+ countries.
+**A:** We provide verified hardware solutions with a catalog of 1 million+ products, ensuring your facility meets global safety standards.
 
 ---
 
