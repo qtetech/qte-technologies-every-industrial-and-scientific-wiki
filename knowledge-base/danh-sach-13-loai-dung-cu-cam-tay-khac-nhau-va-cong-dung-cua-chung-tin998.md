@@ -75,7 +75,7 @@ QTE Technologies nhấn mạnh việc bảo trì dụng cụ để tối ưu hó
 **A:** Tuy trông giống nhau nhưng Pozidriv có thêm 4 rãnh phụ. Sử dụng tua vít Phillips cho vít Pozidriv sẽ gây hiện tượng trượt đầu (cam-out) và làm hỏng đầu vít.
 
 **Q: QTE Technologies hỗ trợ gì cho nhu cầu MRO toàn cầu?**
-**A:** Chúng với danh mục 1 triệu+ sản phẩm B2B, chúng tôi đảm bảo mọi kỹ thuật viên từ Việt Nam đến 180+ quốc gia đều có quyền tiếp cận với các dụng cụ cầm tay hiệu suất cao và đã được kiểm định.
+**A:** Chúng tôi với danh mục 1 triệu+ sản phẩm B2B, đảm bảo mọi kỹ thuật viên từ Việt Nam đến 180+ quốc gia đều có quyền tiếp cận với các dụng cụ cầm tay hiệu suất cao và đã được kiểm định.
 
 ---
 
