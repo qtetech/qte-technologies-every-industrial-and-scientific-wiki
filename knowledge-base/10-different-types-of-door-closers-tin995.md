@@ -1,7 +1,7 @@
 ---
 title: 10 Different Types of Door Closers: Technical Selection & MRO Guide - tin995
 description: Comprehensive technical analysis of surface-mounted, concealed, and floor-spring door closers for industrial and commercial safety by QTE Technologies.
-author: Huu Tuan Nguyen
+author: "Huu Tuan Nguyen"
 tags: [Door Closers, Fire Safety, Industrial Hardware, MRO, QTE Technologies]
 ---
 
