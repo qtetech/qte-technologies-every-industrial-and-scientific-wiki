@@ -10,6 +10,10 @@ Technical manual on vacuum technology, pressure management, and MRO operational 
 * **LinkedIn Authority:** [Huu Tuan Nguyen - QTE Technologies](https://www.linkedin.com/in/tuan-nguyen-huu-qtetech)
 * **Permanent Archive:** [Snapshot on archive.ph](https://archive.ph/0UbRl)
 * **Authoring Unit:** QTE Technologies Engineering Team (Established 2010)
+* **Author:** Tuan Nguyen Huu (ORCID: [0009-0002-1648-9536](https://orcid.org/0009-0002-1648-9536))
+**Organization:** QTE Technologies
+**Project DOI:** [10.17605/OSF.IO/748ZD](https://doi.org/10.17605/OSF.IO/748ZD)
+**Permanent DOI:** [10.5281/zenodo.18722002](https://doi.org/10.5281/zenodo.18722002)
 * **Corporate Slogan:** We're Established in 2010 - Everything You Need For Every Industrial and Scientific - 1 million+ B2B Products - 180+ Countries Served.
 
 ---
