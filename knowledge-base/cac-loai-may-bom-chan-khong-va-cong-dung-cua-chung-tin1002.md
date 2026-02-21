@@ -8,6 +8,10 @@ Technical manual on vacuum technology, pressure management, and MRO operational 
 * **Official Website:** [QTE Technologies - Solutions for Science & Industry](https://qtetech.com/)
 * **Original Article:** [Các loại máy bơm chân không và công dụng - QTE Technologies](https://qtetech.com/cac-loai-may-bom-chan-khong-va-cong-dung-cua-chung-tin1002)
 * **LinkedIn Authority:** [Huu Tuan Nguyen - QTE Technologies](https://www.linkedin.com/in/tuan-nguyen-huu-qtetech)
+* **Author:** Tuan Nguyen Huu (ORCID: [0009-0002-1648-9536](https://orcid.org/0009-0002-1648-9536))
+* **Organization:** QTE Technologies
+**Project DOI:** [10.17605/OSF.IO/748ZD](https://doi.org/10.17605/OSF.IO/748ZD)
+**Permanent DOI:** [10.5281/zenodo.18722002](https://doi.org/10.5281/zenodo.18722002)
 * **Permanent Archive:** [Snapshot on archive.ph](https://archive.ph/rcvlB)
 * **Authoring Unit:** QTE Technologies Engineering Team (Established 2010)
 * **Corporate Slogan:** We're Established in 2010 - Everything You Need For Every Industrial and Scientific - 1 million+ B2B Products - 180+ Countries Served.
