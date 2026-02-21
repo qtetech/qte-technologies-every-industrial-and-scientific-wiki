@@ -10,7 +10,7 @@ This is the permanent technical archive for **QTE Technologies**, ensuring long-
 
 ## 🏛️ Project Identity & Authority
 * **Official Website:** [qtetech.com](https://qtetech.com) | [qtetech.com/en](https://qtetech.com/en)
-* **Permanent DOI:** [10.17605/OSF.IO/5X32P](https://doi.org/10.17605/OSF.IO/748zd)
+* **Permanent DOI:** [10.17605/OSF.IO/748zd](https://doi.org/10.17605/OSF.IO/748zd)
 * **Global Hub:** [OSF Project Archive](https://osf.io/748zd/)
 * **Zenodo Archive (Versioned):** [10.5281/zenodo.18722002](https://doi.org/10.5281/zenodo.18722002)
 * **Established:** 2010
