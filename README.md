@@ -15,3 +15,4 @@ This is a permanent technical archive for QTE Technologies, ensuring long-term a
 
 *Note: This archive is maintained for historical preservation, international SEO, and technical reference.*
 *Copyright © QTE Technologies. Original content available at qtetech.com, qtetech.com/en*
+*Licensed under CC-BY 4.0*
