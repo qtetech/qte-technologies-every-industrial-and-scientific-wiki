@@ -1,40 +1,31 @@
-name: Sync Wiki to Hub
-on:
-  push:
-    branches: [ main ] 
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Wiki
-        uses: actions/checkout@v3
-        with:
-          path: wiki
-
-      - name: Checkout Hub
-        uses: actions/checkout@v3
-        with:
-          repository: qtetech/qtetech.github.io
-          token: ${{ secrets.GH_PAT }}
-          path: hub
-
-      - name: Update Hub README
+- name: Update Hub README
         run: |
           cd wiki
-          # Lấy danh sách bài viết .md, loại bỏ README và các file ẩn
-          # Định dạng lại thành link markdown
-          LIST=$(find . -maxdepth 1 -name "*.md" ! -name "README.md" | sed 's|./|- [|g' | sed 's|.md|](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/&)|g')
+          # Lấy danh sách 10 bài mới nhất, tạo link chuẩn
+          LIST=$(find . -maxdepth 1 -name "*.md" ! -name "README.md" | sed 's|./||' | sort -r | head -n 10 | while read line; do
+            echo "- [$line](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/$line)"
+          done)
           
           cd ../hub
-          # Xóa phần cũ từ dòng "### 🆕 Latest Technical Updates" nếu đã có
-          sed -i '/### 🆕 Latest Technical Updates/,$d' README.md
-          
-          # Thêm danh sách mới vào cuối file README
-          echo -e "\n### 🆕 Latest Technical Updates:\n$LIST" >> README.md
+          # Kiểm tra nếu mục Latest chưa có thì thêm vào cuối file
+          if ! grep -q "🆕 Latest Technical Updates:" README.md; then
+            echo -e "\n## 🆕 Latest Technical Updates:\n" >> README.md
+          fi
+
+          # Dùng Python để ghi đè danh sách bài viết một cách an toàn
+          python3 -c "
+          import sys
+          content = open('README.md').read()
+          header = '## 🆕 Latest Technical Updates:'
+          if header in content:
+              base_content = content.split(header)[0]
+              new_content = base_content + header + '\n\n' + sys.argv[1]
+              with open('README.md', 'w') as f:
+                  f.write(new_content)
+          " "$LIST"
           
           git config --global user.name "QTE-Bot"
           git config --global user.email "bot@qtetech.com"
           git add README.md
-          git commit -m "Neural Update: Sync latest wiki articles" || echo "No changes to commit"
+          git commit -m "Neural Update: Sync latest wiki articles" || echo "No changes"
           git push
