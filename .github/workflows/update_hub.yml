@@ -22,22 +22,21 @@ jobs:
       - name: Update Hub README
         run: |
           cd wiki
-          # Tạo danh sách bài viết theo định dạng Markdown đơn giản
-          LIST=$(find . -maxdepth 1 -name "*.md" ! -name "README.md" | sed 's|./||' | sort -r | head -n 10 | while read line; do
-            echo "- [$line](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/$line)"
+          # Lệnh find này sẽ quét tất cả thư mục con để tìm file .md
+          LIST=$(find . -name "*.md" ! -name "README.md" ! -path "*/.*" | sed 's|./||' | sort -r | head -n 15 | while read line; do
+            # Lấy tên file để hiển thị
+            FILENAME=$(basename "$line")
+            echo "- [$FILENAME](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/$line)"
           done)
           
           cd ../hub
-          # Xóa phần cũ từ mục Latest trở đi (nếu có)
+          # Xóa phần cũ và ghi đè phần mới
           sed -i '/## 🆕 Latest Technical Updates:/,$d' README.md
-          
-          # Ghi mục mới vào cuối file
-          echo -e "\n## 🆕 Latest Technical Updates:\n" >> README.md
+          echo -e "## 🆕 Latest Technical Updates:\n" >> README.md
           echo "$LIST" >> README.md
           
-          # Cấu hình Git và đẩy lên
           git config --global user.name "QTE-Bot"
           git config --global user.email "bot@qtetech.com"
           git add README.md
-          git commit -m "Neural Update: Sync latest wiki articles" || echo "No changes to commit"
+          git commit -m "Neural Update: Deep sync all articles" || echo "No changes"
           git push origin main
