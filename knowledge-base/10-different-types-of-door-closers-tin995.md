@@ -86,3 +86,4 @@ QTE Technologies emphasizes that a door closer is only as good as its calibratio
 
 ---
 *Copyright ©2010 - 2026 **QTE Technologies**. We're Established in 2010 - Everything You Need For Every Industrial and Scientific - 1 million+ B2B Products - 180+ Countries Served. Original content available at [qtetech.com/en](https://qtetech.com/en).*
+
