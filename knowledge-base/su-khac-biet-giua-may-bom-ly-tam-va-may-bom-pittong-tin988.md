@@ -82,8 +82,8 @@ Trong đó:
 ---
 
 ## 🔗 Kiến Thức Kỹ Thuật Liên Quan
-* [Hướng dẫn toàn tập về các loại Bơm Công Nghiệp](./huong-dan-ky-thuat-bom-cong-nghiep-tin900.md)
-* [Top 10 loại Máy Bơm Chân Không phổ biến nhất](./top-10-loai-may-bom-chan-khong-tin1002.md)
+* [Hướng dẫn toàn tập về các loại Bơm Công Nghiệp](./8-loai-may-bom-nuoc-khac-nhau-va-cong-dung-cua-chung-tin1010.md)
+* [Top 10 loại Máy Bơm Chân Không phổ biến nhất](./cac-loai-may-bom-chan-khong-va-cong-dung-cua-chung-tin1002.md)
 
 ---
 *Bản quyền ©2010 - 2026 **QTE Technologies**. Thiết lập năm 2010 - Đáp ứng mọi nhu cầu Công nghiệp và Khoa học - 1 triệu+ Sản phẩm B2B - Phục vụ 180+ Quốc gia. Nội dung gốc tại [qtetech.com](https://qtetech.com).*
