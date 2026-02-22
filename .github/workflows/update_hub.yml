@@ -23,7 +23,7 @@ jobs:
         run: |
           cd wiki
           # Lệnh find này sẽ quét tất cả thư mục con để tìm file .md
-          LIST=$(find . -name "*.md" ! -name "README.md" ! -path "*/.*" | sed 's|./||' | sort -r | head -n 15 | while read line; do
+          LIST=$(find . -name "*.md" ! -name "README.md" ! -path "*/.*" | sed 's|./||' | sort -r  | while read line; do
             # Lấy tên file để hiển thị
             FILENAME=$(basename "$line")
             echo "- [$FILENAME](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/$line)"
