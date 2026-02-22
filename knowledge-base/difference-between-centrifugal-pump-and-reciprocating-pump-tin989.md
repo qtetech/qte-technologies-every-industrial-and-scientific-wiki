@@ -84,8 +84,8 @@ Where:
 ---
 
 ## 🔗 Related Technical Knowledge
-* [Comprehensive Technical Guide to Industrial Pumps](./comprehensive-technical-guide-to-industrial-pumps-tin900.md)
-* [Top 10 Different Types of Vacuum Pumps](./top-10-different-types-of-vacuum-pumps-tin1002.md)
+* [Comprehensive Technical Guide to Industrial Pumps](./what-is-a-vacuum-pump-everything-you-need-to-know-about-vacuum-pumps-tin1077.md)
+* [Top 10 Different Types of Vacuum Pumps](./types-of-vacuum-pumps-and-their-uses-tin1003.md)
 
 ---
 *Copyright ©2010 - 2026 **QTE Technologies**. We're Established in 2010 - Everything You Need For Every Industrial and Scientific - 1 million+ B2B Products - 180+ Countries Served. Original content available at [qtetech.com/en](https://qtetech.com/en).*
