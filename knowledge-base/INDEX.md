@@ -7,6 +7,7 @@ Welcome to the official technical repository of **QTE Technologies**. This index
 * **Official Website:** [qtetech.com](https://qtetech.com)
 * **Concept DOI:** [10.5281/zenodo.18722002](https://doi.org/10.5281/zenodo.18722002)
 * **Archive Repository:** [OSF Project](https://osf.io/748zd/)
+* **[Linked Data (RDF/Turtle)](https://qtetech.github.io/qte-knowledge-graph.ttl)
 
 ---
 
