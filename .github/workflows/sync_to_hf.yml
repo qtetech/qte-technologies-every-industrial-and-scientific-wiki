@@ -17,10 +17,10 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          # 1. Cấu hình danh tính cho Robot
+          # 1. Cấu hình Robot
           git config --global user.email "tuan-qte@qtetech.com"
           git config --global user.name "QTE-Robot"
           
-          # 2. Ép buộc đồng bộ (Force Push) để GitHub làm chủ hoàn toàn
-          # Thay 'tuan-qte' bằng username HF của bạn nếu cần, nhưng dùng token là đủ
-          git push --force https://qtetech:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/QTE-Technologies/industrial-technical-archive main
+          # 2. Lệnh đẩy "Bất chấp": Đẩy nội dung hiện tại (HEAD) vào nhánh chính (main) của HF
+          # Chúng ta dùng HEAD:refs/heads/main để đảm bảo không bị lệch nhánh
+          git push --force https://qtetech:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/QTE-Technologies/industrial-technical-archive HEAD:refs/heads/main
