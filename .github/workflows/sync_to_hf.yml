@@ -1,9 +1,7 @@
 name: Sync to Hugging Face hub
 on:
   push:
-    branches: [main] # Robot sẽ chạy mỗi khi bạn push lên nhánh main
-
-  # Cho phép chạy thủ công từ tab Actions
+    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -19,5 +17,10 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          # Cấu hình robot đẩy dữ liệu sang HF
-          git push --force https://tuan-qte:$HF_TOKEN@huggingface.co/datasets/QTE-Technologies/industrial-technical-archive main
+          # 1. Cấu hình danh tính cho Robot
+          git config --global user.email "tuan-qte@qtetech.com"
+          git config --global user.name "QTE-Robot"
+          
+          # 2. Ép buộc đồng bộ (Force Push) để GitHub làm chủ hoàn toàn
+          # Thay 'tuan-qte' bằng username HF của bạn nếu cần, nhưng dùng token là đủ
+          git push --force https://qtetech:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/QTE-Technologies/industrial-technical-archive main
