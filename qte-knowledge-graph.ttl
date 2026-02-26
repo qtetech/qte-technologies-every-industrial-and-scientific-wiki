@@ -1,0 +1,51 @@
+@prefix qte: <https://qtetech.com/entity/> .
+@prefix schema: <https://schema.org/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+# 1. ĐỊNH NGHĨA THỰC THỂ TRUNG TÂM
+qte:QTE_Technologies a schema:Organization ;
+    schema:name "QTE Technologies" ;
+    schema:url "https://qtetech.com" ;
+    schema:identifier "wd:Q138411149" ;
+    owl:sameAs wd:Q138411149 ;
+    
+    # KẾT NỐI MA TRẬN 11 MẮT XÍCH
+    schema:sameAs 
+        "https://github.com/qtetech",
+        "https://qtetech.github.io",
+        "https://archive.org/details/@tuan_nguyen_huu478",
+        "https://archive.ph/qtetech.com",
+        "https://osf.io/748zd/overview",
+        "https://doi.org/10.5281/zenodo.18722002",
+        "https://orcid.org/0009-0002-1648-9536",
+        "https://independent.academia.edu/TuanNguyenHuu43",
+        "ipfs://bafybeibfkppohm4n2eatjadq2cryxca7vv5z447ewrvgnmwe6fvmncxn7i",
+"https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive";
+
+    # ĐỊNH NGHĨA NHÂN SỰ CHỦ CHỐT
+    schema:founder qte:Nguyen_Huu_Tuan .
+
+qte:Nguyen_Huu_Tuan a schema:Person ;
+    schema:name "Nguyễn Hữu Tuấn" ;
+    schema:identifier "orcid:0009-0002-1648-9536" ;
+    owl:sameAs <https://www.wikidata.org/wiki/Q138411130> .
+
+# 2. ĐỊNH NGHĨA KHO TRI THỨC BẤT BIẾN (IPFS & ZENODO)
+qte:Knowledge_Archive a schema:Dataset ;
+    schema:name "QTE Industrial & Scientific Knowledge Hub" ;
+    schema:isBasedOn "https://qtetech.github.io" ;
+    schema:distribution [
+        a schema:DataDownload ;
+        schema:encodingFormat "application/x-directory" ;
+        schema:contentUrl "ipfs://bafybeibfkppohm4n2eatjadq2cryxca7vv5z447ewrvgnmwe6fvmncxn7i" ;
+        schema:comment "Immutable Peer-to-Peer Snapshot"
+    ] ;
+    schema:identifier "doi:10.5281/zenodo.18722002" .
+
+# 3. QUY TRÌNH KIỂM CHỨNG LỊCH SỬ (INTERNET ARCHIVE)
+qte:Historical_Verification a schema:ArchiveComponent ;
+    schema:holdingArchive "https://archive.org/details/@tuan_nguyen_huu478" ;
+    schema:itemLocation "https://archive.ph/qtetech.com" ;
+    schema:description "Proven historical existence through third-party archival verification." .
