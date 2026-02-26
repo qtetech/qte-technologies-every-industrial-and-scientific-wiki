@@ -1,3 +1,20 @@
+---
+language:
+- vi
+- en
+license: cc-by-4.0
+size_categories:
+- 1M<n
+task_categories:
+- text-generation
+- question-answering
+tags:
+- industrial
+- mro
+- engineering
+- scientific-equipment
+pretty_name: QTE Industrial & Scientific Knowledge Archive
+---
 # QTE Technologies: Industrial & Scientific Knowledge Base
 
 [![DOI (OSF)](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F748zd-blue)](https://doi.org/10.17605/OSF.IO/748zd)
