@@ -23,4 +23,4 @@ jobs:
           
           # 2. Lệnh đẩy "Bất chấp": Đẩy nội dung hiện tại (HEAD) vào nhánh chính (main) của HF
           # Chúng ta dùng HEAD:refs/heads/main để đảm bảo không bị lệch nhánh
-          git push --force https://qtetech:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/QTE-Technologies/industrial-technical-archive HEAD:refs/heads/main
+          git push --force https://nguyenhuutuan-qte:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/QTE-Technologies/industrial-technical-archive HEAD:refs/heads/main
