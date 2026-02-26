@@ -4,22 +4,18 @@ language:
 - en
 license: cc-by-4.0
 size_categories:
-- n<1K
+- 100K<n<1M
 task_categories:
 - text-generation
 - question-answering
-tags:
-- industrial
-- mro
-- engineering
-- scientific-equipment
-pretty_name: QTE Industrial & Scientific Knowledge Archive
-# Thêm đoạn cấu hình bên dưới để sửa lỗi Viewer
 configs:
 - config_name: default
   data_files:
-  - split: train
-    path: metadata.csv
+    - split: train
+      path: 
+        - "product-E-14-02-2026.csv"
+        - "product-V-14-02-2026(x1.1).csv"
+        - "metadata.csv"
 ---
 # QTE Technologies: Industrial & Scientific Knowledge Base
 
