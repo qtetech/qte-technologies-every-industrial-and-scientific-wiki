@@ -17,10 +17,16 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          # 1. Cấu hình Robot
+          # 1. Xóa thông tin cũ để tránh xung đột
+          git remote rm hf || true
+          
+          # 2. Cấu hình định danh
           git config --global user.email "tuan-qte@qtetech.com"
           git config --global user.name "QTE-Robot"
           
-          # 2. Lệnh đẩy "Bất chấp": Đẩy nội dung hiện tại (HEAD) vào nhánh chính (main) của HF
-          # Chúng ta dùng HEAD:refs/heads/main để đảm bảo không bị lệch nhánh
-          git push --force https://nguyenhuutuan-qte:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/QTE-Technologies/industrial-technical-archive HEAD:refs/heads/main
+          # 3. Thêm remote mới với Token (Sử dụng cấu hình chuẩn của HF)
+          # Lưu ý: nguyenhuutuan-qte là username cá nhân của bạn sở hữu Token
+          git remote add hf https://nguyenhuutuan-qte:$HF_TOKEN@huggingface.co/datasets/QTE-Technologies/industrial-technical-archive
+          
+          # 4. Ép buộc đẩy dữ liệu từ nhánh main của GitHub sang nhánh main của HF
+          git push --force hf main
