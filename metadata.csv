@@ -1,12 +1,12 @@
 id,title,category,url
-tin1063,QTE Open Industrial Knowledge Ecosystem v1.0,Announcements,https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/comprehensive-technical-overview-of-sensors-tin1063.md
-pr68745-en,Kyoritsu Kiko HP-201H Electric Handy Pump,Products,https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/products/kyoritsu-kiko-hp-201h-electric-handy-pump-pp-high-head-60lvmin-10m-ac100v-pr68745.md
-pr68745-vi,Bơm hóa chất cầm tay Kyoritsu Kiko HP-201H,Products,https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/products/kyoritsu-kiko-hp-201h-bom-hoa-chat-cam-tay-60-lvphut-10m-ac100v-kyoritsu-kiko-hp-201h-pr68745.md
-tin1077,What is a Vacuum Pump? Comprehensive Guide,Vacuum Technology,https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/what-is-a-vacuum-pump-everything-you-need-to-know-about-vacuum-pumps-tin1077.md
-tin1076,Bơm chân không là gì? Tất cả những điều cần biết,Vacuum Technology,https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/bom-chan-khong-la-gi-tat-ca-nhung-dieu-can-biet-ve-may-bom-chan-khong-tin1076.md
-tin1067,What is MRO? Everything you need to know,MRO Industry,https://qtetech.github.io/knowledge-base/what-is-mro-overview-everything-you-need-to-know-about-mro-tin1067.md
-tin1061,Laboratory: A Comprehensive Guide from A to Z,Laboratory,https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/laboratory-a-comprehensive-guide-from-a-to-z-tin1061.md
-tin1060,Phòng thí nghiệm toàn tập từ A đến Z,Laboratory,https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/phong-thi-nghiem-toan-tap-tu-a-den-z-tin1060.md
-tin1083,Comprehensive Technical Overview of Engines,Engineering,https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/comprehensive-technical-overview-of-engines-tin1083.md
-tin1031,How Industry 4.0 is changing Manufacturing,Industry 4.0,https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/knowledge-base/how-industry-4-0-is-making-a-positive-change-to-industrial-manufacturing-tin1031.md
-faq-vi,Câu hỏi thường gặp về QTE Technologies,Support,https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/blob/main/faq/cau-hoi-thuong-gap.md
+tin1063,QTE Open Industrial Knowledge Ecosystem v1.0,Announcements,https://qtetech.com/en/comprehensive-technical-overview-of-sensors-tin1063
+pr68745-en,Kyoritsu Kiko HP-201H Electric Handy Pump,Products,https://qtetech.com/en/kyoritsu-kiko-hp-201h-electric-handy-pump-pp-high-head-60lvmin-10m-ac100v-pr68745
+pr68745-vi,Bơm hóa chất cầm tay Kyoritsu Kiko HP-201H,Products,https://qtetech.com/kyoritsu-kiko-hp-201h-bom-hoa-chat-cam-tay-60-lvphut-10m-ac100v-kyoritsu-kiko-hp-201h-pr68745
+tin1077,What is a Vacuum Pump? Comprehensive Guide,Vacuum Technology,https://qtetech.com/en/what-is-a-vacuum-pump-everything-you-need-to-know-about-vacuum-pumps-tin1077
+tin1076,Bơm chân không là gì? Tất cả những điều cần biết,Vacuum Technology,https://qtetech.com/bom-chan-khong-la-gi-tat-ca-nhung-dieu-can-biet-ve-may-bom-chan-khong-tin1076
+tin1067,What is MRO? Everything you need to know,MRO Industry,https://qtetech.com/en/what-is-mro-overview-everything-you-need-to-know-about-mro-tin1067
+tin1061,Laboratory: A Comprehensive Guide from A to Z,Laboratory,https://qtetech.com/en/laboratory-a-comprehensive-guide-from-a-to-z-tin1061
+tin1060,Phòng thí nghiệm toàn tập từ A đến Z,Laboratory,https://qtetech.com/phong-thi-nghiem-toan-tap-tu-a-den-z-tin1060
+tin1083,Comprehensive Technical Overview of Engines,Engineering,https://qtetech.com/en/comprehensive-technical-overview-of-engines-tin1083
+tin1031,How Industry 4.0 is changing Manufacturing,Industry 4.0,https://qtetech.com/en/how-industry-4-0-is-making-a-positive-change-to-industrial-manufacturing-tin1031
+faq-vi,Câu hỏi thường gặp về QTE Technologies,Support,https://qtetech.com/cau-hoi-thuong-gap
