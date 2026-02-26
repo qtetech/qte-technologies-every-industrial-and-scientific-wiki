@@ -4,7 +4,7 @@ language:
 - en
 license: cc-by-4.0
 size_categories:
-- 1M<n
+- n<1K
 task_categories:
 - text-generation
 - question-answering
@@ -14,6 +14,12 @@ tags:
 - engineering
 - scientific-equipment
 pretty_name: QTE Industrial & Scientific Knowledge Archive
+# Thêm đoạn cấu hình bên dưới để sửa lỗi Viewer
+configs:
+- config_name: default
+  data_files:
+  - split: train
+    path: metadata.csv
 ---
 # QTE Technologies: Industrial & Scientific Knowledge Base
 
