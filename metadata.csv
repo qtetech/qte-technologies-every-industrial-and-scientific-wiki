@@ -1,3 +1,12 @@
 id,title,category,url
-tin1100,Open Industrial Knowledge Ecosystem,Announcements,https://qtetech.github.io/knowledge-base/tin1100
-tin1101,Vacuum Pump Maintenance Guide,Engineering,https://qtetech.github.io/knowledge-base/tin1101
+tin1100,QTE Open Industrial Knowledge Ecosystem v1.0,Announcements,https://qtetech.github.io/knowledge-base/tin1100.html
+pr68745-en,Kyoritsu Kiko HP-201H Electric Handy Pump,Products,https://qtetech.github.io/products/kyoritsu-kiko-hp-201h-electric-handy-pump-pp-high-head-60lvmin-10m-ac100v-pr68745.html
+pr68745-vi,Bơm hóa chất cầm tay Kyoritsu Kiko HP-201H,Products,https://qtetech.github.io/products/kyoritsu-kiko-hp-201h-bom-hoa-chat-cam-tay-60-lvphut-10m-ac100v-kyoritsu-kiko-hp-201h-pr68745.html
+tin1077,What is a Vacuum Pump? Comprehensive Guide,Vacuum Technology,https://qtetech.github.io/knowledge-base/what-is-a-vacuum-pump-everything-you-need-to-know-about-vacuum-pumps-tin1077.html
+tin1076,Bơm chân không là gì? Tất cả những điều cần biết,Vacuum Technology,https://qtetech.github.io/knowledge-base/bom-chan-khong-la-gi-tat-ca-nhung-dieu-can-biet-ve-may-bom-chan-khong-tin1076.html
+tin1067,What is MRO? Everything you need to know,MRO Industry,https://qtetech.github.io/knowledge-base/what-is-mro-overview-everything-you-need-to-know-about-mro-tin1067.html
+tin1061,Laboratory: A Comprehensive Guide from A to Z,Laboratory,https://qtetech.github.io/knowledge-base/laboratory-a-comprehensive-guide-from-a-to-z-tin1061.html
+tin1060,Phòng thí nghiệm toàn tập từ A đến Z,Laboratory,https://qtetech.github.io/knowledge-base/phong-thi-nghiem-toan-tap-tu-a-den-z-tin1060.html
+tin1083,Comprehensive Technical Overview of Engines,Engineering,https://qtetech.github.io/knowledge-base/comprehensive-technical-overview-of-engines-tin1083.html
+tin1031,How Industry 4.0 is changing Manufacturing,Industry 4.0,https://qtetech.github.io/knowledge-base/how-industry-4-0-is-making-a-positive-change-to-industrial-manufacturing-tin1031.html
+faq-vi,Câu hỏi thường gặp về QTE Technologies,Support,https://qtetech.github.io/faq/cau-hoi-thuong-gap.html
