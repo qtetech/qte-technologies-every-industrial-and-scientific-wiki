@@ -1,22 +1,4 @@
----
-language:
-- vi
-- en
-license: cc-by-4.0
-size_categories:
-- 100K<n<1M
-task_categories:
-- text-generation
-- question-answering
-configs:
-- config_name: default
-  data_files:
-    - split: train
-      path: 
-        - "product-E-14-02-2026.csv"
-        - "product-V-14-02-2026(x1.1).csv"
-        - "metadata.csv"
----
+
 # QTE Technologies: Industrial & Scientific Knowledge Base
 
 [![DOI (OSF)](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F748zd-blue)](https://doi.org/10.17605/OSF.IO/748zd)
