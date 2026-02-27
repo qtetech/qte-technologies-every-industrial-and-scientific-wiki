@@ -28,5 +28,4 @@ jobs:
           # Lưu ý: nguyenhuutuan-qte là username cá nhân của bạn sở hữu Token
           git remote add hf https://nguyenhuutuan-qte:$HF_TOKEN@huggingface.co/datasets/QTE-Technologies/industrial-technical-archive
           
-          # 4. Ép buộc đẩy dữ liệu từ nhánh main của GitHub sang nhánh main của HF
-          git push --force hf main
+          
