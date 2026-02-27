@@ -4,14 +4,14 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 
-# 1. ĐỊNH NGHĨA THỰC THỂ TRUNG TÂM
+# 1. ĐỊNH NGHĨA THỰC THỂ TRUNG TÂM (QTE TECHNOLOGIES)
 qte:QTE_Technologies a schema:Organization ;
     schema:name "QTE Technologies" ;
     schema:url "https://qtetech.com" ;
     schema:identifier "wd:Q138411149" ;
     owl:sameAs wd:Q138411149 ;
     
-    # KẾT NỐI MA TRẬN 11 MẮT XÍCH
+    # MA TRẬN 11 MẮT XÍCH (Giữ nguyên và làm sạch)
     schema:sameAs 
         "https://github.com/qtetech",
         "https://qtetech.github.io",
@@ -22,17 +22,38 @@ qte:QTE_Technologies a schema:Organization ;
         "https://orcid.org/0009-0002-1648-9536",
         "https://independent.academia.edu/TuanNguyenHuu43",
         "ipfs://bafybeibfkppohm4n2eatjadq2cryxca7vv5z447ewrvgnmwe6fvmncxn7i",
-"https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive";
+        "https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive" ;
 
-    # ĐỊNH NGHĨA NHÂN SỰ CHỦ CHỐT
-    schema:founder qte:Nguyen_Huu_Tuan .
+    schema:founder qte:Nguyen_Huu_Tuan ;
+    # Kết nối trực tiếp tổ chức với kho dữ liệu khổng lồ
+    schema:owns qte:Industrial_Technical_Archive .
 
 qte:Nguyen_Huu_Tuan a schema:Person ;
     schema:name "Nguyễn Hữu Tuấn" ;
     schema:identifier "orcid:0009-0002-1648-9536" ;
     owl:sameAs <https://www.wikidata.org/wiki/Q138411130> .
 
-# 2. ĐỊNH NGHĨA KHO TRI THỨC BẤT BIẾN (IPFS & ZENODO)
+# 2. ĐỊNH NGHĨA KHO DỮ LIỆU SẢN PHẨM (70,000+ ENTITIES)
+# Đây là phần quan trọng nhất để AI hiểu về Dataset Hugging Face của bạn
+qte:Industrial_Technical_Archive a schema:Dataset ;
+    schema:name "QTE Industrial & Scientific Technical Archive" ;
+    schema:description "A massive industrial dataset with 70,000+ technical entities in English and Vietnamese." ;
+    schema:url "https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive" ;
+    schema:license <https://creativecommons.org/licenses/by/4.0/> ;
+    schema:creator qte:QTE_Technologies ;
+    schema:hasPart qte:Products_EN, qte:Products_VI .
+
+qte:Products_EN a schema:DataDownload ;
+    schema:name "QTE English Product Catalog" ;
+    schema:encodingFormat "text/csv" ;
+    schema:contentUrl "https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive/resolve/main/product-E-14-02-2026.csv" .
+
+qte:Products_VI a schema:DataDownload ;
+    schema:name "Danh mục sản phẩm QTE Tiếng Việt" ;
+    schema:encodingFormat "text/csv" ;
+    schema:contentUrl "https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive/resolve/main/product-V-14-02-2026(x1.1).csv" .
+
+# 3. ĐỊNH NGHĨA KHO TRI THỨC BẤT BIẾN (IPFS & ZENODO - Giữ nguyên của bạn)
 qte:Knowledge_Archive a schema:Dataset ;
     schema:name "QTE Industrial & Scientific Knowledge Hub" ;
     schema:isBasedOn "https://qtetech.github.io" ;
@@ -44,7 +65,7 @@ qte:Knowledge_Archive a schema:Dataset ;
     ] ;
     schema:identifier "doi:10.5281/zenodo.18722002" .
 
-# 3. QUY TRÌNH KIỂM CHỨNG LỊCH SỬ (INTERNET ARCHIVE)
+# 4. QUY TRÌNH KIỂM CHỨNG LỊCH SỬ (Giữ nguyên của bạn)
 qte:Historical_Verification a schema:ArchiveComponent ;
     schema:holdingArchive "https://archive.org/details/@tuan_nguyen_huu478" ;
     schema:itemLocation "https://archive.ph/qtetech.com" ;
