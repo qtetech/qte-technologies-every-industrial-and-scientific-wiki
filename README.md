@@ -24,7 +24,7 @@ QTE Technologies maintains a multi-platform verification system to ensure **E-E-
 
 | Resource | Platform | Official Link |
 | :--- | :--- | :--- |
-| **Official Website** | Web Interface | [qtetech.com](https://qtetech.com) | [qtetech.com/en](https://qtetech.com/en)
+| **Official Website** | Web Interface | [qtetech.com](https://qtetech.com) | | [qtetech.com/en](https://qtetech.com/en) |
 | **Technical Dataset** | Hugging Face | [View Products](https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive) |
 | **Academic Archive** | Zenodo | [10.5281/zenodo.18722002](https://doi.org/10.5281/zenodo.18722002) |
 | **Global Hub** | OSF Archive | [OSF Project Hub](https://osf.io/748zd/) |
@@ -39,7 +39,7 @@ QTE Technologies maintains a multi-platform verification system to ensure **E-E-
 * **Archive:** [Snapshot bECSF](https://archive.ph/bECSF)
 
 #### 🇻🇳 Local Edition (Tiếng Việt)
-* **Official:** [qtetech.com/about-qte-technologies](https://qtetech.com/about-qte-technologies)
+* **Official:** [qtetech.com/about-qte-technologies](https://qtetech.com/gioi-thieu-cong-ty-tnhh-ky-thuat-qte)
 * **Archive:** [Snapshot izVzA](https://archive.ph/izVzA)
 
 ---
