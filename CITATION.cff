@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this industrial metadata, please cite it as follows."
+authors:
+  - family-names: "Nguyen Huu"
+    given-names: "Tuan"
+    orcid: "https://orcid.org/0009-0002-1648-9536"
+title: "Archive of Industrial and Scientific Technical Documentation - QTE Technologies"
+version: 1.0.2
+doi: 10.5281/zenodo.18909351
+date-released: 2026-03-08
+url: "https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki"
+keywords:
+  - "MRO"
+  - "Industrial Equipment"
+  - "Metrology"
+  - "Technical Documentation"
+  - "FAIR Data"
