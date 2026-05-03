@@ -29,7 +29,7 @@ QTE Technologies maintains a multi-platform verification system to ensure **E-E-
 | **Academic Archive** | Zenodo | [10.5281/zenodo.18722002](https://doi.org/10.5281/zenodo.18722002) |
 | **Global Hub** | OSF Archive | [OSF Project Hub](https://osf.io/748zd/) |
 | **Immutable Snapshot** | IPFS | `ipfs://bafybeibfkppohm4n2eatjadq2cryxca7vv5z447ewrvgnmwe6fvmncxn7i` |
-
+| **DBpedia** | databus | https://databus.dbpedia.org/qtetech/industrial-mro-metadata |
 ---
 
 ## 🌐 Global & Local Editions
