@@ -31,7 +31,7 @@ jobs:
 
           # 1. Khởi tạo phiên làm việc
           run = wandb.init(
-              project="qte-industrial-knowledge-base", 
+              project="qte-open-catalog", 
               entity="qtetech-qte-technologies", 
               job_type="data-ingestion"
           )
