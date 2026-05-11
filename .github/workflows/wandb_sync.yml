@@ -1,0 +1,55 @@
+name: QTE-WandB-Automation
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '*.csv'
+
+jobs:
+  upload-to-wandb:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install WandB
+        run: pip install wandb
+
+      - name: Run WandB Sync Script
+        env:
+          WANDB_API_KEY: ${{ secrets.WANDB_API_KEY }}
+        run: |
+          python - <<EOF
+          import wandb
+          import os
+
+          # Sử dụng chính xác entity mà W&B đã cấp cho bạn
+          run = wandb.init(
+              project="qte-industrial-knowledge-base", 
+              entity="qtetech-qte-technologies", 
+              job_type="data-ingestion"
+          )
+
+          artifact = wandb.Artifact(
+              name="qte-product-catalog", 
+              type="dataset",
+              description="Official industrial dataset from QTE Technologies. Synced from GitHub."
+          )
+
+          files_found = False
+          for file in os.listdir("."):
+              if file.endswith(".csv"):
+                  artifact.add_file(file)
+                  files_found = True
+
+          if files_found:
+              run.log_artifact(artifact)
+              
+          wandb.finish()
+          EOF
