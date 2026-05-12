@@ -1,0 +1,30 @@
+name: Auto-Sync CSV to DANS Data Station
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '*.csv'
+
+jobs:
+  upload-to-dans:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Upload CSV Files to Dataverse
+        env:
+          API_TOKEN: ${{ secrets.DATAVERSE_API_TOKEN }}
+          # MÃ DOI CHÍNH THỨC CỦA BẠN ĐÃ ĐƯỢC CẬP NHẬT TẠI ĐÂY
+          PERSISTENT_ID: 'doi:10.17026/PT/OU4UVZ' 
+          SERVER_URL: 'https://phys-techsciences.datastations.nl'
+        run: |
+          for file in *.csv; do
+            echo "Đang đẩy file $file lên Data Station..."
+            curl -H "X-Dataverse-key: $API_TOKEN" \
+                 -X POST -S -v \
+                 --data-binary "@$file" \
+                 "$SERVER_URL/api/datasets/:persistentId/add?persistentId=$PERSISTENT_ID"
+          done
