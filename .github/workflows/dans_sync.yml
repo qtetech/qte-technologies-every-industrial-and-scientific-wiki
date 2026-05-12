@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - '*.csv'
+    # Xóa phần paths để Action chạy với MỌI thay đổi trên main, giúp ta kiểm tra log dễ hơn
+  workflow_dispatch: # Thêm dòng này để bạn có thể nhấn nút "Run workflow" thủ công
 
 jobs:
   upload-to-dans:
@@ -14,14 +14,17 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: List files for debugging
+        run: ls -R # Lệnh này để kiểm tra xem file CSV đang nằm ở đâu
+
       - name: Upload CSV Files to Dataverse
         env:
           API_TOKEN: ${{ secrets.DATAVERSE_API_TOKEN }}
-          # MÃ DOI CHÍNH THỨC CỦA BẠN ĐÃ ĐƯỢC CẬP NHẬT TẠI ĐÂY
           PERSISTENT_ID: 'doi:10.17026/PT/OU4UVZ' 
           SERVER_URL: 'https://phys-techsciences.datastations.nl'
         run: |
-          for file in *.csv; do
+          # Tìm tất cả file CSV trong toàn bộ repo (bao gồm cả thư mục con)
+          find . -name "*.csv" -type f | while read file; do
             echo "Đang đẩy file $file lên Data Station..."
             curl -H "X-Dataverse-key: $API_TOKEN" \
                  -X POST -S -v \
