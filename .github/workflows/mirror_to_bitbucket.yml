@@ -16,13 +16,17 @@ jobs:
 
       - name: Push to Bitbucket
         env:
+          BITBUCKET_EMAIL: ${{ secrets.BITBUCKET_EMAIL }}
           BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_TOKEN }}
         run: |
-          # Xóa bỏ remote cũ nếu có
+          # Xóa bỏ remote cũ nếu có để làm sạch tiến trình
           git remote remove bitbucket || true
           
-          # Sử dụng URL thuần của kho Bitbucket (Không chèn Token vào URL)
+          # Cấu hình URL kho chứa dữ liệu của QTE trên Bitbucket
           git remote add bitbucket https://bitbucket.org/qtetech-global/industrial-scientific-catalog.git
           
-          # Xác thực bằng HTTP Header Bearer - Chuẩn áp dụng cho Bitbucket API Tokens
-          git -c http.extraHeader="Authorization: Bearer $BITBUCKET_TOKEN" push bitbucket main --force --tags
+          # Tự động mã hóa Email và Token sang chuỗi Base64 chuẩn hóa (không xuống dòng)
+          AUTH_BASE64=$(echo -n "$BITBUCKET_EMAIL:$BITBUCKET_TOKEN" | base64 -w 0)
+          
+          # Thực hiện ép đồng bộ dữ liệu sang Bitbucket qua HTTP Basic Auth bảo mật
+          git -c http.extraHeader="Authorization: Basic $AUTH_BASE64" push bitbucket main --force --tags
