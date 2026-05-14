@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+# Ép hệ thống chạy trên nền tảng Node.js 24 mới nhất để xóa sạch cảnh báo
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
 jobs:
   mirror_to_bitbucket:
     runs-on: ubuntu-latest
@@ -16,17 +20,14 @@ jobs:
 
       - name: Push to Bitbucket
         env:
-          BITBUCKET_EMAIL: ${{ secrets.BITBUCKET_EMAIL }}
+          BITBUCKET_USERNAME: ${{ secrets.BITBUCKET_USERNAME }}
           BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_TOKEN }}
         run: |
-          # Xóa bỏ remote cũ nếu có để làm sạch tiến trình
+          # Làm sạch các cấu hình remote cũ để tránh xung đột
           git remote remove bitbucket || true
           
-          # Cấu hình URL kho chứa dữ liệu của QTE trên Bitbucket
-          git remote add bitbucket https://bitbucket.org/qtetech-global/industrial-scientific-catalog.git
+          # Chèn trực tiếp Username và Token vào URL theo chuẩn HTTPS Git
+          git remote add bitbucket https://$BITBUCKET_USERNAME:$BITBUCKET_TOKEN@bitbucket.org/qtetech-global/industrial-scientific-catalog.git
           
-          # Tự động mã hóa Email và Token sang chuỗi Base64 chuẩn hóa (không xuống dòng)
-          AUTH_BASE64=$(echo -n "$BITBUCKET_EMAIL:$BITBUCKET_TOKEN" | base64 -w 0)
-          
-          # Thực hiện ép đồng bộ dữ liệu sang Bitbucket qua HTTP Basic Auth bảo mật
-          git -c http.extraHeader="Authorization: Basic $AUTH_BASE64" push bitbucket main --force --tags
+          # Tiến hành ép đồng bộ toàn bộ dữ liệu và tag sang Bitbucket
+          git push bitbucket main --force --tags
