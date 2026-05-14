@@ -9,12 +9,22 @@ jobs:
   mirror_to_bitbucket:
     runs-on: ubuntu-latest
     steps:
+      # 1. Nâng cấp lên v4 để xóa bỏ hoàn toàn cảnh báo Node.js 20
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      # 2. Dùng Git thuần để đẩy dữ liệu sang Bitbucket qua API Token
       - name: Push to Bitbucket
-        uses: pixta-dev/repository-mirroring-action@v1
-        with:
-          target_repo_url: https://x-token-auth:${{ secrets.BITBUCKET_TOKEN }}@bitbucket.org/qtetech-global/industrial-scientific-catalog.git
+        env:
+          BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_TOKEN }}
+        run: |
+          # Xóa bỏ các remote trùng lặp nếu có
+          git remote remove bitbucket || true
+          
+          # Cấu hình đường dẫn bảo mật chứa Token của bạn
+          git remote add bitbucket https://x-token-auth:${BITBUCKET_TOKEN}@bitbucket.org/qtetech-global/industrial-scientific-catalog.git
+          
+          # Ép đồng bộ nhánh main và toàn bộ thẻ (tags) sang Bitbucket
+          git push bitbucket main --force --tags
