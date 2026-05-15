@@ -38,8 +38,4 @@ jobs:
           git remote remove bitbucket || true
           git remote add bitbucket git@bitbucket.org:qtetech-global/industrial-scientific-catalog.git
           git push bitbucket main --force --tags
-          - name: Push to Codeberg via SSH
-        run: |
-          ssh-keyscan codeberg.org >> ~/.ssh/known_hosts
-          git remote add codeberg git@codeberg.org:qtetech/industrial-scientific-catalog.git
-          git push codeberg main --force --tags
+         
