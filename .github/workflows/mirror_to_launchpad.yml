@@ -5,6 +5,7 @@ on:
     branches:
       - main
 
+# Ép hệ thống dùng Node.js 24 để xóa sạch cảnh báo màu vàng
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
@@ -20,7 +21,6 @@ jobs:
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2
         with:
-          # Dùng chung chìa khóa bí mật bạn đã nạp vào GitHub Secrets
           key: ${{ secrets.BITBUCKET_SSH_PRIVATE_KEY }}
           known_hosts: 'unnecessary'
 
@@ -29,12 +29,11 @@ jobs:
           mkdir -p ~/.ssh
           ssh-keyscan git.launchpad.net >> ~/.ssh/known_hosts
 
-      - name: Push and Create Repo on Launchpad
+      - name: Push to Launchpad
         run: |
           git remote remove launchpad || true
-          
-          # Địa chỉ SSH đã được cấu hình theo ID qtetech và tên kho của bạn
+          # Đảm bảo dùng đúng Launchpad ID 'qtetech' của bạn
           git remote add launchpad git+ssh://qtetech@git.launchpad.net/~qtetech/+git/industrial-scientific-catalog
           
-          # Đẩy nhánh 'main' lên. Launchpad sẽ tự tạo kho 'industrial-scientific-catalog'
+          # Lệnh đẩy dữ liệu chuẩn SSH
           git push launchpad main --force --tags
