@@ -1,0 +1,40 @@
+name: Mirror to Launchpad
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  mirror_to_launchpad:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          # Dùng chung chìa khóa bí mật bạn đã nạp vào GitHub Secrets
+          key: ${{ secrets.BITBUCKET_SSH_PRIVATE_KEY }}
+          known_hosts: 'unnecessary'
+
+      - name: Add Launchpad to Known Hosts
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan git.launchpad.net >> ~/.ssh/known_hosts
+
+      - name: Push and Create Repo on Launchpad
+        run: |
+          git remote remove launchpad || true
+          
+          # Địa chỉ SSH đã được cấu hình theo ID qtetech và tên kho của bạn
+          git remote add launchpad git+ssh://qtetech@git.launchpad.net/~qtetech/+git/industrial-scientific-catalog
+          
+          # Đẩy nhánh 'main' lên. Launchpad sẽ tự tạo kho 'industrial-scientific-catalog'
+          git push launchpad main --force --tags
