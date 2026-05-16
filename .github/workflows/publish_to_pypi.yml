@@ -1,0 +1,49 @@
+name: Publish Dataset to PyPI
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '*.csv'
+      - 'qte_industrial_catalog/**'
+      - 'pyproject.toml'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  publish-pypi:
+    runs-on: ubuntu-latest
+    environment:
+      name: pypi # Khớp với tên Environment bạn đã khai báo trên PyPI
+    permissions:
+      id-token: write  # Quyền tối quan trọng để xác thực bảo mật Trusted Publisher với PyPI
+      contents: write  # Quyền ghi để update số version ngược lại GitHub
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Bundling Tools
+        run: pip install build setuptools
+
+      - name: Auto-Bump Version
+        run: |
+          # Robot tự động lấy thời gian hiện tại làm số phiên bản (Dạng: 1.0.YYYYMMDDHHMM)
+          VERSION="1.0.$(date +'%Y%m%d%H%M')"
+          echo "__version__ = '$VERSION'" > qte_industrial_catalog/__init__.py
+          git config --global user.name "qtetech"
+          git config --global user.email "qtetech@gmail.com"
+          git commit -am "Bump Python package version to $VERSION [skip ci]"
+          git push origin main
+
+      - name: Build Package Artifacts
+        run: python -m build
+
+      - name: Publish Package to PyPI
+        uses: pypa/gh-action-pypi-publish@release/v1 # Robot chính chủ của PyPI, tự động thông quan không cần Token chữ
