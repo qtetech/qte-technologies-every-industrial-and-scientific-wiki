@@ -30,4 +30,10 @@
     "url": "https://github.com/qtetech/industrial-scientific-catalog/issues"
   },
   "homepage": "https://qtetech.com"
+  - name: Publish Package to npm
+        run: |
+          # Thêm cờ --access public để báo cho npm biết đây là gói công khai miễn phí
+          npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 }
