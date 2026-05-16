@@ -1,0 +1,21 @@
+{
+    "name": "qte-technologies/industrial-scientific-catalog",
+    "description": "Official industrial and scientific laboratory equipment catalog dataset by QTE Technologies.",
+    "license": "MIT",
+    "keywords": ["qte-technologies", "industrial-equipment", "laboratory-instruments", "scientific-catalog", "dataset", "csv"],
+    "homepage": "https://qtetech.com",
+    "authors": [
+        {
+            "name": "QTE Technologies Co., Ltd",
+            "email": "qtetech@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "QteTechnologies\\IndustrialScientificCatalog\\": "src/"
+        }
+    }
+}
