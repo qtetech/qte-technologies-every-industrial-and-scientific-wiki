@@ -4,7 +4,7 @@
   "description": "Official industrial and scientific laboratory equipment catalog dataset by QTE Technologies.",
   "main": "index.js",
   "files": [
-    "*.csv",
+    "*",
     "index.js"
   ],
   "scripts": {
