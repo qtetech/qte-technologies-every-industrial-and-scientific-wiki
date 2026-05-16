@@ -1,0 +1,33 @@
+{
+  "name": "@qte-technologies/industrial-scientific-catalog",
+  "version": "1.0.0",
+  "description": "Official industrial and scientific laboratory equipment catalog dataset by QTE Technologies.",
+  "main": "index.js",
+  "files": [
+    "data",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "qte technologies",
+    "industrial equipment",
+    "laboratory instruments",
+    "scientific catalog",
+    "dataset",
+    "csv",
+    "as one cabinet",
+    "resibon"
+  ],
+  "author": "QTE Technologies Co., Ltd",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qtetech/industrial-scientific-catalog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qtetech/industrial-scientific-catalog/issues"
+  },
+  "homepage": "https://qtetech.com"
+}
