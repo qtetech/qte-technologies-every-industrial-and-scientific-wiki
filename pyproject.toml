@@ -20,7 +20,7 @@ classifiers = [
 
 [tool.setuptools]
 packages = ["qte_industrial_catalog"]
-
+include-package-data = true
 [tool.setuptools.package-data]
 "*" = ["*.csv"]
 
