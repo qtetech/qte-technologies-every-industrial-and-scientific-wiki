@@ -21,9 +21,8 @@ classifiers = [
 [tool.setuptools]
 packages = ["qte_industrial_catalog"]
 
-[tool.setuptools.dynamic]
-version = { attr = "qte_industrial_catalog.__init__.__version__" }
-
-# RẤT QUAN TRỌNG: Chỉ định cho Python đóng gói toàn bộ các file CSV ở thư mục gốc
 [tool.setuptools.package-data]
 "*" = ["*.csv"]
+
+[tool.setuptools.dynamic]
+version = { attr = "qte_industrial_catalog.__init__.__version__" }
