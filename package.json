@@ -4,7 +4,7 @@
   "description": "Official industrial and scientific laboratory equipment catalog dataset by QTE Technologies.",
   "main": "index.js",
   "files": [
-    "data",
+    "*.csv",
     "index.js"
   ],
   "scripts": {
@@ -24,16 +24,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qtetech/industrial-scientific-catalog.git"
+    "url": "git+https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki.git"
   },
   "bugs": {
-    "url": "https://github.com/qtetech/industrial-scientific-catalog/issues"
+    "url": "https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/issues"
   },
   "homepage": "https://qtetech.com"
-  - name: Publish Package to npm
-        run: |
-          # Thêm cờ --access public để báo cho npm biết đây là gói công khai miễn phí
-          npm publish --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 }
