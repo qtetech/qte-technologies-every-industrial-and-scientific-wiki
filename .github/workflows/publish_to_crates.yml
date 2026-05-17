@@ -1,0 +1,78 @@
+name: Publish Dataset to Crates.io
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '*.csv' # Kích hoạt robot ngay khi bạn thêm/sửa bất kỳ file CSV nào!
+      - 'src/**'
+      - 'Cargo.toml'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  publish-crates:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Quyền ghi để robot lưu lại mã nguồn mới sau khi tự sửa
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install Rust Toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Auto Scan CSV & Update Rust Code Dynamically
+        run: |
+          # 1. Tự động lấy thời gian hiện tại làm số phiên bản (Dạng: 1.0.YYYYMMDDHHMM)
+          VERSION="1.0.$(date +'%Y%m%d%H%M')"
+          
+          # 2. Sửa số version tự động trong file Cargo.toml
+          sed -i "s/^version = .*/version = \"$VERSION\"/" Cargo.toml
+          
+          # 3. Quét toàn bộ thư mục để tìm các file .csv và chuẩn bị chuỗi code Rust
+          CSV_LIST=""
+          for file in *.csv; do
+            if [ -f "$file" ]; then
+              CSV_LIST="$CSV_LIST        \"$file\",\n"
+            fi
+          done
+          
+          # 4. Ghi đè cấu trúc động hoàn chỉnh vào file src/lib.rs
+          echo -e "//! # QTE Industrial Catalog Dataset Client
+          //! Thư viện hiệu năng cao tự động cập nhật luồng dữ liệu của QTE Technologies.
+          
+          pub const GITHUB_RAW_BASE: &str = \"https://raw.githubusercontent.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/main\";
+          
+          /// Tự động quét và trả về danh sách tất cả file CSV hiện có của QTE trên GitHub
+          pub fn get_all_csv_files() -> Vec<&'static str> {
+              vec![
+          $CSV_LIST    ]
+          }
+          
+          /// Lấy URL tải xuống trực tiếp của một file cụ thể
+          pub fn get_file_url(file_name: &str) -> String {
+              format!(\"{}/{}\", GITHUB_RAW_BASE, file_name)
+          }
+          
+          /// Kết nối trực tiếp và nạp nội dung file CSV từ máy chủ về bộ nhớ RAM
+          pub fn fetch_raw_data(file_name: &str) -> Result<String, reqwest::Error> {
+              let url = get_file_url(file_name);
+              let response = reqwest::blocking::get(&url)?;
+              let body = response.text()?;
+              Ok(body)
+          }" > src/lib.rs
+
+          # 5. Lưu lại các thay đổi code này ngược về kho GitHub để đồng bộ danh mục
+          git config --global user.name "qtetech"
+          git config --global user.email "qtetech@gmail.com"
+          git commit -am "Robot: Auto-updated CSV matrix and bumped version to $VERSION [skip ci]"
+          git push origin main
+
+      - name: Cargo Login
+        run: cargo login ${{ secrets.CRATES_TOKEN }}
+
+      - name: Publish to Crates.io
+        run: cargo publish --allow-dirty
