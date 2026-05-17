@@ -1,6 +1,6 @@
 [package]
 name = "qte-technologies-catalog"
-version = "1.0.202605170408"
+version = "1.0.0" # Số này sẽ được robot tự động tăng theo thời gian thực
 edition = "2021"
 description = "Official high-performance Rust client to access the industrial and scientific laboratory equipment catalog dataset by QTE Technologies."
 readme = "README.md"
@@ -9,6 +9,12 @@ homepage = "https://qtetech.com"
 repository = "https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki"
 keywords = ["qte-technologies", "industrial-equipment", "scientific-catalog", "dataset", "csv"]
 categories = ["api-bindings", "science"]
+
+# 👉 ĐÂY LÀ CHÌA KHÓA: Cấm Cargo đóng gói các file CSV nặng vào thư viện
+exclude = [
+    "*.csv",
+    ".github/",
+]
 
 [dependencies]
 reqwest = { version = "0.11", features = ["blocking"] }
