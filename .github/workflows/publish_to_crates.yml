@@ -8,7 +8,7 @@ on:
       - '*.csv'
       - 'src/**'
       - 'Cargo.toml'
-  workflow_dispatch: # Đã lùi vào đúng 2 dấu cách để nằm trong mục 'on'
+  workflow_dispatch:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
@@ -72,8 +72,6 @@ jobs:
           git commit -am "Robot: Auto-updated CSV matrix and bumped version to $VERSION [skip ci]" || echo "No changes to commit"
           git push origin main
 
-      - name: Cargo Login
-        run: cargo login ${{ secrets.CRATES_TOKEN }}
-
+      # 6. Đẩy thẳng gói lên Crates.io bằng Token bảo mật chuẩn xác
       - name: Publish to Crates.io
-        run: cargo publish --allow-dirty
+        run: cargo publish --token ${{ secrets.CRATES_TOKEN }} --allow-dirty
