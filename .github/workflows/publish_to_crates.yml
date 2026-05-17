@@ -8,7 +8,7 @@ on:
       - '*.csv' # Kích hoạt robot ngay khi bạn thêm/sửa bất kỳ file CSV nào!
       - 'src/**'
       - 'Cargo.toml'
-
+workflow_dispatch:
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
