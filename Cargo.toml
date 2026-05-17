@@ -1,6 +1,6 @@
 [package]
 name = "qte-industrial-catalog"
-version = "1.0.202605170354"
+version = "1.0.202605170358"
 edition = "2021"
 description = "Official high-performance Rust client to access the industrial and scientific laboratory equipment catalog dataset by QTE Technologies."
 readme = "README.md"
