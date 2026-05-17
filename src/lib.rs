@@ -1,9 +1,9 @@
 //! # QTE Industrial Catalog Dataset Client
-//! Thư viện hiệu năng cao cung cấp quyền truy cập luồng dữ liệu công nghiệp của QTE Technologies.
+//! Thư viện hiệu năng cao tự động cập nhật luồng dữ liệu của QTE Technologies.
 
 pub const GITHUB_RAW_BASE: &str = "https://raw.githubusercontent.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki/main";
 
-/// Tự động lấy danh sách tất cả các file CSV định danh danh mục của QTE
+/// Tự động quét và trả về danh sách tất cả file CSV hiện có của QTE trên GitHub
 pub fn get_all_csv_files() -> Vec<&'static str> {
     vec![
         "metadata.csv",
@@ -23,7 +23,7 @@ pub fn get_file_url(file_name: &str) -> String {
     format!("{}/{}", GITHUB_RAW_BASE, file_name)
 }
 
-/// Tự động kết nối và nạp nội dung thô của file CSV từ máy chủ về bộ nhớ RAM
+/// Kết nối trực tiếp và nạp nội dung file CSV từ máy chủ về bộ nhớ RAM
 pub fn fetch_raw_data(file_name: &str) -> Result<String, reqwest::Error> {
     let url = get_file_url(file_name);
     let response = reqwest::blocking::get(&url)?;
