@@ -1,0 +1,14 @@
+[package]
+name = "qte-industrial-catalog"
+version = "1.0.0"
+edition = "2021"
+description = "Official high-performance Rust client to access the industrial and scientific laboratory equipment catalog dataset by QTE Technologies."
+readme = "README.md"
+license = "MIT"
+homepage = "https://qtetech.com"
+repository = "https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki"
+keywords = ["qte-technologies", "industrial-equipment", "scientific-catalog", "dataset", "csv"]
+categories = ["api-bindings", "science"]
+
+[dependencies]
+reqwest = { version = "0.11", features = ["blocking"] }
