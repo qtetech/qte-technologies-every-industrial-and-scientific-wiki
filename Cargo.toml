@@ -1,6 +1,6 @@
 [package]
 name = "qte-technologies-catalog"
-version = "1.0.0" # Số này sẽ được robot tự động tăng theo thời gian thực
+version = "1.0.202605170411"
 edition = "2021"
 description = "Official high-performance Rust client to access the industrial and scientific laboratory equipment catalog dataset by QTE Technologies."
 readme = "README.md"
