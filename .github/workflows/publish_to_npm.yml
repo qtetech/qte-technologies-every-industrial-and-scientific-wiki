@@ -1,0 +1,45 @@
+name: Publish Dataset to npmjs
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**'
+      - 'index.js'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  publish-npm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Configure Git for Auto-Versioning
+        run: |
+          git config --global user.name "qtetech"
+          git config --global user.email "qtetech@gmail.com"
+
+      - name: Bump Version (Tự động tăng số phiên bản nhỏ)
+        run: |
+          npm version patch -m "Upgrade dataset version to %s [skip ci]"
+
+      - name: Publish Package to npm
+        run: |
+          # Nếu dùng scoped package (@qtetech/), bắt buộc phải thêm cờ --access public
+          npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Push Version Change back to GitHub
+        run: |
+          git push origin main --tags

@@ -1,0 +1,38 @@
+name: Mirror to Codeberg
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  # Ép chạy Node.js 24 để sạch cảnh báo hệ thống cho tương lai (2026+)
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  mirror_to_codeberg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          # Chúng ta dùng chung bí danh Secret đã tạo ở bước trước
+          key: ${{ secrets.BITBUCKET_SSH_PRIVATE_KEY }}
+          known_hosts: 'unnecessary'
+
+      - name: Add Codeberg to Known Hosts
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan codeberg.org >> ~/.ssh/known_hosts
+
+      - name: Push to Codeberg via SSH
+        run: |
+          git remote remove codeberg || true
+          # LƯU Ý: Thay 'qtetech-global' bằng Username chính xác của bạn trên Codeberg
+          git remote add codeberg git@codeberg.org:qtetech/industrial-scientific-catalog.git
+          git push codeberg main --force --tags

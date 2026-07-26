@@ -1,0 +1,41 @@
+name: Mirror to Bitbucket
+
+on:
+  push:
+    branches:
+      - main
+
+# Ép hệ thống chạy trên nền tảng Node.js 24 mới nhất để xóa sạch hoàn toàn các cảnh báo
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  mirror_to_bitbucket:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Lấy mã nguồn từ nhánh main của GitHub (Bản v4 mới nhất)
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 2. Cấu hình robot tự động nhận diện khóa SSH bí mật từ GitHub Secrets
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.BITBUCKET_SSH_PRIVATE_KEY }}
+          known_hosts: 'unnecessary' # Sẽ tự động quét host ở bước sau để đảm bảo an toàn
+
+      # 3. Đăng ký Bitbucket vào danh sách kết nối tin cậy (Known Hosts) để hệ thống không hỏi xác nhận yes/no
+      - name: Add Bitbucket to Known Hosts
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan bitbucket.org >> ~/.ssh/known_hosts
+
+      # 4. Tiến hành ép đồng bộ toàn bộ dữ liệu của QTE sang Bitbucket qua cổng SSH (git@bitbucket.org)
+      - name: Push to Bitbucket via SSH
+        run: |
+          git remote remove bitbucket || true
+          git remote add bitbucket git@bitbucket.org:qtetech-global/industrial-scientific-catalog.git
+          git push bitbucket main --force --tags
+         

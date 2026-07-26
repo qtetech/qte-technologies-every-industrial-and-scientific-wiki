@@ -1,0 +1,39 @@
+name: Mirror to Launchpad
+
+on:
+  push:
+    branches:
+      - main
+
+# Ép hệ thống dùng Node.js 24 để xóa sạch cảnh báo màu vàng
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  mirror_to_launchpad:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.BITBUCKET_SSH_PRIVATE_KEY }}
+          known_hosts: 'unnecessary'
+
+      - name: Add Launchpad to Known Hosts
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan git.launchpad.net >> ~/.ssh/known_hosts
+
+      - name: Push to Launchpad
+        run: |
+          git remote remove launchpad || true
+          # Đảm bảo dùng đúng Launchpad ID 'qtetech' của bạn
+          git remote add launchpad git+ssh://qtetech@git.launchpad.net/~qtetech/+git/industrial-scientific-catalog
+          
+          # Lệnh đẩy dữ liệu chuẩn SSH
+          git push launchpad main --force --tags

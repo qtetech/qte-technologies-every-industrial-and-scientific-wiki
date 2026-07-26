@@ -1,0 +1,65 @@
+name: QTE-WandB-Automation
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: # Thêm cái này để bạn có thể bấm chạy thủ công bất cứ lúc nào
+
+jobs:
+  upload-to-wandb:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4 # Cập nhật lên v4 để hết cảnh báo Node.js
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install WandB
+        run: pip install wandb
+
+      - name: Run WandB Sync Script
+        env:
+          WANDB_API_KEY: ${{ secrets.WANDB_API_KEY }}
+        run: |
+          python - <<EOF
+          import wandb
+          import os
+          import glob
+
+          # 1. Khởi tạo phiên làm việc
+          run = wandb.init(
+              project="qte-open-catalog", 
+              entity="qtetech-qte-technologies", 
+              job_type="data-ingestion"
+          )
+
+          # 2. Tạo Artifact
+          artifact = wandb.Artifact(
+              name="qte-product-catalog", 
+              type="dataset",
+              description="Official industrial dataset from QTE Technologies. Automated sync."
+          )
+
+          # 3. Tìm tất cả file CSV trong toàn bộ repository
+          csv_files = glob.glob("**/*.csv", recursive=True)
+          
+          files_added = 0
+          for file_path in csv_files:
+              # Loại bỏ các file trong thư mục ẩn nếu có
+              if not file_path.startswith('.'):
+                  artifact.add_file(file_path)
+                  print(f">>> Đã tìm thấy và thêm file: {file_path}")
+                  files_added += 1
+
+          # 4. Chỉ đẩy lên nếu tìm thấy ít nhất 1 file
+          if files_added > 0:
+              run.log_artifact(artifact)
+              print(f">>> Thành công: Đã đẩy {files_added} file lên W&B Artifacts.")
+          else:
+              print(">>> LỖI: Không tìm thấy bất kỳ file CSV nào trong Repository!")
+              
+          wandb.finish()
+          EOF
