@@ -11,10 +11,8 @@ if not api_key:
 
 openml.config.apikey = api_key
 
-# Nếu file CSV của bạn nằm trong thư mục gốc, giữ nguyên Path("."). 
-# Nếu nằm trong thư mục con (ví dụ thư mục 'data'), hãy đổi thành Path("data")
+# Thư mục chứa file CSV
 csv_dir = Path(".") 
-
 csv_files = list(csv_dir.glob("*.csv"))
 print(f"Phát hiện tổng cộng {len(csv_files)} tệp CSV cần đồng bộ lên OpenML.")
 
@@ -27,7 +25,9 @@ for file_path in csv_files:
     # Đọc dữ liệu bằng Pandas
     df = pd.read_csv(file_path)
     
-    dataset_name = f"QTE Industrial MRO - {file_path.stem}"
+    # Chuẩn hóa tên dataset: Loại bỏ khoảng trắng, thay bằng dấu gạch dưới để OpenML không báo lỗi ký tự
+    clean_stem = file_path.stem.replace(" ", "_")
+    dataset_name = f"QTE_Industrial_MRO_{clean_stem}"
     
     qte_dataset = create_dataset(
         name=dataset_name,
@@ -45,6 +45,6 @@ for file_path in csv_files:
         data=df
     )
     
-    # Xuất bản lên OpenML (Sẽ văng lỗi trực tiếp nếu kết nối hoặc xác thực thất bại)
+    # Xuất bản lên OpenML
     qte_dataset.publish()
     print(f"Thành công! Tệp {file_path.name} đã lên OpenML với Dataset ID: {qte_dataset.id}")
