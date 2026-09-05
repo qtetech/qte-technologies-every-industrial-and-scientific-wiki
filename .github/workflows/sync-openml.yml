@@ -5,7 +5,8 @@ on:
     branches:
       - main
     paths:
-      - '**.csv' # Tự động kích hoạt khi có bất kỳ tệp CSV nào được thêm mới hoặc chỉnh sửa trên nhánh main
+      - '**.csv'
+  workflow_dispatch: # Cho phép bấm nút chạy thủ công trên giao diện GitHub
 
 jobs:
   sync-to-openml:
