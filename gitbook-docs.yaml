@@ -1,8 +1,0 @@
-version: 1
-site:
-  title: "QTE Technologies MRO Wiki"
-  structure:
-    - title: "QTE Technologies MRO Wiki"
-      path: "mro-wiki"
-      content:
-        directory: "."
