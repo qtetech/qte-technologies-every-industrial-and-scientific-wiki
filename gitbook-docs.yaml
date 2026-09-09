@@ -1,5 +1,6 @@
 version: 1
 site:
+  title: "QTE Technologies MRO Wiki"
   spaces:
     - title: "QTE Technologies MRO Wiki"
       path: "mro-wiki"
