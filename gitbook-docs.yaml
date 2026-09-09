@@ -6,5 +6,6 @@ site:
       key: qte-mro-wiki
       title: "QTE Technologies MRO Wiki"
       path: "mro-wiki"
+      default: true
       content:
         directory: "."
