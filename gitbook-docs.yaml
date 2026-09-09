@@ -1,5 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
+  title: "QTE Technologies MRO Wiki"
   structure:
     - type: space
       key: qte-mro-wiki
