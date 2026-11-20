@@ -1,4 +1,3 @@
-YAML
 name: Auto Push New CSV URLs to Diffbot Worker
 
 on:
