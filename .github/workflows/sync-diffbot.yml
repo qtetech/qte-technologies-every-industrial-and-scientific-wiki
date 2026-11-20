@@ -1,0 +1,29 @@
+YAML
+name: Auto Push New CSV URLs to Diffbot Worker
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'product-E-*.csv'
+      - 'product-V-*.csv'
+  workflow_dispatch:
+
+jobs:
+  sync-to-diffbot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Extract latest CSV URLs and push to Cloudflare Worker
+        env:
+          DIFFBOT_TOKEN: ${{ secrets.DIFFBOT_TOKEN }}
+          DIFFBOT_WORKER_URL: ${{ secrets.DIFFBOT_WORKER_URL }}
+        run: python scripts/sync-diffbot.py
