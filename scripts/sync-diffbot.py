@@ -130,6 +130,7 @@ def main():
         headers={
             "Authorization": f"Bearer {DIFFBOT_TOKEN}",
             "Content-Type": "text/plain; charset=utf-8",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
         },
     )
 
