@@ -4,7 +4,7 @@
 [![DOI (Zenodo)](https://zenodo.org/badge/DOI/10.5281/zenodo.18722002.svg)](https://doi.org/10.5281/zenodo.18722002)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow)](https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive)
-
+[![Open Interactive Catalog Explorer](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qte-catalog.streamlit.app)
 This is the permanent technical archive for **QTE Technologies**, ensuring long-term accessibility of our technical expertise, industrial standards, and MRO documentation.
 
 ---
