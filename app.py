@@ -20,6 +20,7 @@ DATAVERSE_DOI = "https://doi.org/10.7910/DVN/VEVXRV"
 ZENODO_DOI = "https://doi.org/10.5281/zenodo.18722002"
 KAGGLE_URL = "https://www.kaggle.com/datasets/nguyenhuutuan1982/qte-technologies-industrial-scientific-archive"
 HF_URL = "https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive"
+ProductHunt_URL = "https://www.producthunt.com/products/qte-technologies"
 
 COL_ALIASES = {
     "url": {"url", "link", "product_url", "duong_dan", "loc"},
