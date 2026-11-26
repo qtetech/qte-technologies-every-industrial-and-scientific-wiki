@@ -188,6 +188,7 @@ with st.sidebar:
 - 🔬 [Zenodo Archive DOI]({ZENODO_DOI})
 - 🤗 [Hugging Face Dataset]({HF_URL})
 - 📊 [Kaggle Scientific Archive]({KAGGLE_URL})
+- [Product Hunt]({ProductHunt_URL})
 """
     )
 
